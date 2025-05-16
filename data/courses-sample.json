@@ -7,7 +7,7 @@
     "program" : "Elementary",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "students": 20000,
     "level" : 2,
     "desc" : [
@@ -59,7 +59,7 @@
     "program" : "Elementary",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/DSC07193.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/DSC07193.jpg",
     "desc": [
       "Our EL Fundamental courses start with English Language Starters where students are first introduced to the English alphabet & short vowel sounds, advancing through our Phonics course focused on long vowels & consonant blends, and completing in our Foundations course where students can confidently read & write simple sentences. Students engage in various learning activities, practice reading / listening / speaking / writing, refine their fine motor skills, and are exposed to social learning through designed interactions with their peers. "
     ],
@@ -86,7 +86,7 @@
         "hour" : "51 hours"
       },
       "objective" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/class-detail/english/img_01.png",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/class-detail/english/img_01.png",
         "strings" : [
           "Alphabet recognition and application",
           "Short vowel sounds",
@@ -97,7 +97,7 @@
         ]
       },
       "books" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/class-detail/english/img_02.png",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/class-detail/english/img_02.png",
         "strings" : [
           "<strong>Fly Phonics 1 to 4:</strong> Phonic series that cover the alphabet & sounds, short & long vowels, and consonant blends & digraphs.",
           "<strong>Reading Sketch Starters 1 to 3:</strong> To apply basic phonic knowledge to practical reading application, the Reading Sketch Starter series support fundamental phonics learning through visual stories and exciting themes.",
@@ -120,7 +120,7 @@
     "program" : "Middle & High School",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -168,7 +168,7 @@
     "program" : "Middle & High School",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -206,7 +206,7 @@
     "program" : "Debate",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -244,7 +244,7 @@
     "program" : "Test Prep",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -282,7 +282,7 @@
     "program" : "Test Prep",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -320,7 +320,7 @@
     "program" : "Test Prep",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -358,7 +358,7 @@
     "program" : "Test Prep",
     "runtime" : "17 Weeks",
     "age" : "16-18",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -396,7 +396,7 @@
     "program" : "Test Prep",
     "runtime" : "17 Weeks",
     "age" : "16-18",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/temp/course_thumbnail.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/temp/course_thumbnail.jpg",
     "hybrird" : {
       "videoUrl" : "",
       "overview" : "",
@@ -436,7 +436,7 @@
     "weeks" : "",
     "duration" : "",
     "hour" : "",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/English Learning Starters1.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/English Learning Starters1.jpg",
     "desc": [
       "Our EL Fundamental courses start with English Language Starters where students are first introduced to the English alphabet & short vowel sounds, advancing through our Phonics course focused on long vowels & consonant blends, and completing in our Foundations course where students can confidently read & write simple sentences. Students engage in various learning activities, practice reading / listening / speaking / writing, refine their fine motor skills, and are exposed to social learning through designed interactions with their peers. "
     ],
@@ -446,7 +446,7 @@
       "registrationText": "Spring Term Registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/English Learning Starters2.jpg",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/English Learning Starters2.jpg",
         "strings" : [
           "Alphabet recognition and application",
           "Short vowel sounds",
@@ -457,7 +457,7 @@
         ]
       },
       "books" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/elementary_books.jpg",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/elementary_books.jpg",
         "strings" : [
           "<strong>Fly Phonics 1 to 4:</strong> Phonic series that cover the alphabet & sounds, short & long vowels, and consonant blends & digraphs.",
           "<strong>Reading Sketch Starters 1 to 3:</strong> To apply basic phonic knowledge to practical reading application, the Reading Sketch Starter series support fundamental phonics learning through visual stories and exciting themes.",
@@ -480,7 +480,7 @@
     "program" : "Elementary",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/English Learning Phonics1.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/English Learning Phonics1.jpg",
     "desc": [
       "Our EL Fundamental courses start with English Language Starters where students are first introduced to the English alphabet & short vowel sounds, advancing through our Phonics course focused on long vowels & consonant blends, and completing in our Foundations course where students can confidently read & write simple sentences. Students engage in various learning activities, practice reading / listening / speaking / writing, refine their fine motor skills, and are exposed to social learning through designed interactions with their peers. "
     ],
@@ -507,7 +507,7 @@
         "hour" : "51 hours"
       },
       "objective" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/English Learning Phonics2.jpg",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/English Learning Phonics2.jpg",
         "strings" : [
           "Alphabet recognition and application",
           "Short vowel sounds",
@@ -518,7 +518,7 @@
         ]
       },
       "books" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/elementary_books.jpg",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/elementary_books.jpg",
         "strings" : [
           "<strong>Fly Phonics 1 to 4:</strong> Phonic series that cover the alphabet & sounds, short & long vowels, and consonant blends & digraphs.",
           "<strong>Reading Sketch Starters 1 to 3:</strong> To apply basic phonic knowledge to practical reading application, the Reading Sketch Starter series support fundamental phonics learning through visual stories and exciting themes.",
@@ -541,7 +541,7 @@
     "program" : "Elementary",
     "runtime" : "17 Weeks",
     "age" : "5-10",
-    "thumbnail" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/Environmental Science1.jpg",
+    "thumbnail" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/Environmental Science1.jpg",
     "desc": [
       "Our EL Fundamental courses start with English Language Starters where students are first introduced to the English alphabet & short vowel sounds, advancing through our Phonics course focused on long vowels & consonant blends, and completing in our Foundations course where students can confidently read & write simple sentences. Students engage in various learning activities, practice reading / listening / speaking / writing, refine their fine motor skills, and are exposed to social learning through designed interactions with their peers. "
     ],
@@ -568,7 +568,7 @@
         "hour" : "51 hours"
       },
       "objective" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/Environmental Science2.jpg",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/Environmental Science2.jpg",
         "strings" : [
           "Alphabet recognition and application",
           "Short vowel sounds",
@@ -579,7 +579,7 @@
         ]
       },
       "books" : {
-        "image" : "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/elementary_books.jpg",
+        "image" : "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/elementary_books.jpg",
         "strings" : [
           "<strong>Fly Phonics 1 to 4:</strong> Phonic series that cover the alphabet & sounds, short & long vowels, and consonant blends & digraphs.",
           "<strong>Reading Sketch Starters 1 to 3:</strong> To apply basic phonic knowledge to practical reading application, the Reading Sketch Starter series support fundamental phonics learning through visual stories and exciting themes.",

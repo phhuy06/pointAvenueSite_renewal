@@ -184,7 +184,7 @@ select{
     -webkit-appearance: none; /* 네이티브 외형 감추기 */
     -moz-appearance: none;
     appearance: none;
-	background: #fff url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_02.png') 100% 50% no-repeat;
+	background: #fff url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_02.png') 100% 50% no-repeat;
 	background-size: 14px auto !important;
 	background-position: center right 5px;
 	color:#333;
@@ -195,7 +195,7 @@ select.focus{
     -webkit-appearance: none; /* 네이티브 외형 감추기 */
     -moz-appearance: none;
     appearance: none;
-	background: #fff url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_02.png') 100% 50% no-repeat;
+	background: #fff url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_02.png') 100% 50% no-repeat;
 	background-size: 14px auto !important;
 	background-position: center right 5px;
 	border:1px solid #000; 

@@ -1,3 +1,6 @@
+// Load environment variables from .env file (for local development)
+require("dotenv").config();
+
 const express = require("express");
 const app = express();
 const path = require("path");
@@ -67,259 +70,132 @@ app.listen(PORT, () => {
   console.log(`Server is connected to ${PORT}`);
 });
 
-// Load the AWS SDK for Node.js
-var AWS = require("aws-sdk");
+// Load nodemailer for sending emails via SMTP (replaces AWS SES)
+const nodemailer = require("nodemailer");
 
-AWS.config.update({
-  // Only to send mail, access key
-  accessKeyId: "AKIAVLKBHBFXGJO2IBOP",
-  secretAccessKey: "ylyViZ0JJirr4a/z+ZhscOu2AdUhstj7R8fJF6Qo",
-  region: "ap-southeast-1",
+// Create SMTP transporter
+const transporter = nodemailer.createTransport({
+  host: process.env.SMTP_HOST || "smtp.gmail.com",
+  port: Number.parseInt(process.env.SMTP_PORT || "587", 10),
+  secure: process.env.SMTP_SECURE === "true", // true for 465, false for other ports
+  auth: {
+    user: process.env.SMTP_USER || "your-email@gmail.com",
+    pass: process.env.SMTP_PASSWORD || "your-app-password",
+  },
 });
 
 app.post("/camp/summer-boarding-camp", function (req, res) {
   if (req.body.email) {
-    var params = {
-      Destination: {
-        /* required */
-        CcAddresses: [
-          /* more items */
-        ],
-        ToAddresses: [
-          "contact@pointavenue.com",
-          // req.body.email,
-          /* more items */
-        ],
-      },
-      Message: {
-        /* required */
-        Body: {
-          /* required */
-          Html: {
-            Charset: "UTF-8",
-            Data: `
-            <p><b>First Name: </b> ${req.body.firstName}</p>
-            <p><b>Last Name: </b> ${req.body.lastName}</p>
-            <p><b>Email: </b> ${req.body.email}</p>
-            <p><b>Child Name: </b> ${req.body.childName}</p>
-            <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
-            <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
-          `,
-          },
-          Text: {
-            Charset: "UTF-8",
-            Data: "TEXT_FORMAT_BODY",
-          },
-        },
-        Subject: {
-          Charset: "UTF-8",
-          Data: "Register Summer Boarding Camp",
-        },
-      },
-      Source: "contact@pointavenue.com" /* required */,
-      ReplyToAddresses: [
-        /* more items */
-      ],
+    const mailOptions = {
+      from: process.env.SMTP_FROM || "contact@pointavenue.com",
+      to: "contact@pointavenue.com",
+      subject: "Register Summer Boarding Camp",
+      html: `
+        <p><b>First Name: </b> ${req.body.firstName}</p>
+        <p><b>Last Name: </b> ${req.body.lastName}</p>
+        <p><b>Email: </b> ${req.body.email}</p>
+        <p><b>Child Name: </b> ${req.body.childName}</p>
+        <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
+        <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
+      `,
+      text: `First Name: ${req.body.firstName}\nLast Name: ${req.body.lastName}\nEmail: ${req.body.email}\nChild Name: ${req.body.childName}\nPhone Number: ${req.body.phoneNumber}\nStudent's Grade & School: ${req.body.grade}`,
     };
 
-    // Create the promise and SES service object
-    var sendPromise = new AWS.SES({ apiVersion: "2010-12-01" })
-      .sendEmail(params)
-      .promise();
-
-    // Handle promise's fulfilled/rejected states
-    sendPromise
-      .then(function (data) {
+    transporter
+      .sendMail(mailOptions)
+      .then(function (info) {
         res.status(204).send();
       })
       .catch(function (err) {
-        res.send(err);
+        console.error("SMTP error:", err);
+        res.status(500).send(err);
       });
   }
 });
 
 app.post("/camp/summer-day-camp", function (req, res) {
   if (req.body.email) {
-    var params = {
-      Destination: {
-        /* required */
-        CcAddresses: [
-          /* more items */
-        ],
-        ToAddresses: [
-          "contact@pointavenue.com",
-          // "trung.le@truenorth.edu.vn"
-          // req.body.email,
-          /* more items */
-        ],
-      },
-      Message: {
-        /* required */
-        Body: {
-          /* required */
-          Html: {
-            Charset: "UTF-8",
-            Data: `
-            <p><b>First Name: </b> ${req.body.firstName}</p>
-            <p><b>Last Name: </b> ${req.body.lastName}</p>
-            <p><b>Email: </b> ${req.body.email}</p>
-            <p><b>Child Name: </b> ${req.body.childName}</p>
-            <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
-            <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
-          `,
-          },
-          Text: {
-            Charset: "UTF-8",
-            Data: "TEXT_FORMAT_BODY",
-          },
-        },
-        Subject: {
-          Charset: "UTF-8",
-          Data: "Register Summer Day Camp",
-        },
-      },
-      Source: "contact@pointavenue.com" /* required */,
-      ReplyToAddresses: [
-        /* more items */
-      ],
+    const mailOptions = {
+      from: process.env.SMTP_FROM || "contact@pointavenue.com",
+      to: "contact@pointavenue.com",
+      subject: "Register Summer Day Camp",
+      html: `
+        <p><b>First Name: </b> ${req.body.firstName}</p>
+        <p><b>Last Name: </b> ${req.body.lastName}</p>
+        <p><b>Email: </b> ${req.body.email}</p>
+        <p><b>Child Name: </b> ${req.body.childName}</p>
+        <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
+        <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
+      `,
+      text: `First Name: ${req.body.firstName}\nLast Name: ${req.body.lastName}\nEmail: ${req.body.email}\nChild Name: ${req.body.childName}\nPhone Number: ${req.body.phoneNumber}\nStudent's Grade & School: ${req.body.grade}`,
     };
 
-    // Create the promise and SES service object
-    var sendPromise = new AWS.SES({ apiVersion: "2010-12-01" })
-      .sendEmail(params)
-      .promise();
-
-    // Handle promise's fulfilled/rejected states
-    sendPromise
-      .then(function (data) {
+    transporter
+      .sendMail(mailOptions)
+      .then(function (info) {
         res.status(204).send();
       })
       .catch(function (err) {
-        res.send(err);
+        console.error("SMTP error:", err);
+        res.status(500).send(err);
       });
   }
 });
 
 app.post("/camp/winter-boarding-camp", function (req, res) {
   if (req.body.email) {
-    var params = {
-      Destination: {
-        /* required */
-        CcAddresses: [
-          /* more items */
-        ],
-        ToAddresses: [
-          "contact@pointavenue.com",
-          // "trung.le@truenorth.edu.vn"
-          // req.body.email,
-          /* more items */
-        ],
-      },
-      Message: {
-        /* required */
-        Body: {
-          /* required */
-          Html: {
-            Charset: "UTF-8",
-            Data: `
-            <p><b>First Name: </b> ${req.body.firstName}</p>
-            <p><b>Last Name: </b> ${req.body.lastName}</p>
-            <p><b>Email: </b> ${req.body.email}</p>
-            <p><b>Child Name: </b> ${req.body.childName}</p>
-            <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
-            <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
-          `,
-          },
-          Text: {
-            Charset: "UTF-8",
-            Data: "TEXT_FORMAT_BODY",
-          },
-        },
-        Subject: {
-          Charset: "UTF-8",
-          Data: "Register Winter Boarding Camp",
-        },
-      },
-      Source: "contact@pointavenue.com" /* required */,
-      ReplyToAddresses: [
-        /* more items */
-      ],
+    const mailOptions = {
+      from: process.env.SMTP_FROM || "contact@pointavenue.com",
+      to: "contact@pointavenue.com",
+      subject: "Register Winter Boarding Camp",
+      html: `
+        <p><b>First Name: </b> ${req.body.firstName}</p>
+        <p><b>Last Name: </b> ${req.body.lastName}</p>
+        <p><b>Email: </b> ${req.body.email}</p>
+        <p><b>Child Name: </b> ${req.body.childName}</p>
+        <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
+        <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
+      `,
+      text: `First Name: ${req.body.firstName}\nLast Name: ${req.body.lastName}\nEmail: ${req.body.email}\nChild Name: ${req.body.childName}\nPhone Number: ${req.body.phoneNumber}\nStudent's Grade & School: ${req.body.grade}`,
     };
 
-    // Create the promise and SES service object
-    var sendPromise = new AWS.SES({ apiVersion: "2010-12-01" })
-      .sendEmail(params)
-      .promise();
-
-    // Handle promise's fulfilled/rejected states
-    sendPromise
-      .then(function (data) {
+    transporter
+      .sendMail(mailOptions)
+      .then(function (info) {
         res.status(204).send();
       })
       .catch(function (err) {
-        res.send(err);
+        console.error("SMTP error:", err);
+        res.status(500).send(err);
       });
   }
 });
 
 app.post("/camp/grit-camp", function (req, res) {
   if (req.body.email) {
-    var params = {
-      Destination: {
-        /* required */
-        CcAddresses: [
-          /* more items */
-        ],
-        ToAddresses: [
-          "contact@pointavenue.com",
-          // "trung.le@truenorth.edu.vn"
-          // req.body.email,
-          /* more items */
-        ],
-      },
-      Message: {
-        /* required */
-        Body: {
-          /* required */
-          Html: {
-            Charset: "UTF-8",
-            Data: `
-            <p><b>First Name: </b> ${req.body.firstName}</p>
-            <p><b>Last Name: </b> ${req.body.lastName}</p>
-            <p><b>Email: </b> ${req.body.email}</p>
-            <p><b>Child Name: </b> ${req.body.childName}</p>
-            <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
-            <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
-          `,
-          },
-          Text: {
-            Charset: "UTF-8",
-            Data: "TEXT_FORMAT_BODY",
-          },
-        },
-        Subject: {
-          Charset: "UTF-8",
-          Data: "Register Grit Camp",
-        },
-      },
-      Source: "contact@pointavenue.com" /* required */,
-      ReplyToAddresses: [
-        /* more items */
-      ],
+    const mailOptions = {
+      from: process.env.SMTP_FROM || "contact@pointavenue.com",
+      to: "contact@pointavenue.com",
+      subject: "Register Grit Camp",
+      html: `
+        <p><b>First Name: </b> ${req.body.firstName}</p>
+        <p><b>Last Name: </b> ${req.body.lastName}</p>
+        <p><b>Email: </b> ${req.body.email}</p>
+        <p><b>Child Name: </b> ${req.body.childName}</p>
+        <p><b>Phone Number: </b> ${req.body.phoneNumber}</p>
+        <p><b>Student's Grade & School: </b> ${req.body.grade}</p>
+      `,
+      text: `First Name: ${req.body.firstName}\nLast Name: ${req.body.lastName}\nEmail: ${req.body.email}\nChild Name: ${req.body.childName}\nPhone Number: ${req.body.phoneNumber}\nStudent's Grade & School: ${req.body.grade}`,
     };
 
-    // Create the promise and SES service object
-    var sendPromise = new AWS.SES({ apiVersion: "2010-12-01" })
-      .sendEmail(params)
-      .promise();
-
-    // Handle promise's fulfilled/rejected states
-    sendPromise
-      .then(function (data) {
+    transporter
+      .sendMail(mailOptions)
+      .then(function (info) {
         res.status(204).send();
       })
       .catch(function (err) {
-        res.send(err);
+        console.error("SMTP error:", err);
+        res.status(500).send(err);
       });
   }
 });

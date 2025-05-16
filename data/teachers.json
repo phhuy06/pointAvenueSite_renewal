@@ -8,7 +8,7 @@
       "Bachelor of Secondary Education Major in Biological Science, Cebu Institute of Technology University, Philippines",
       "Professor for 11 years at College of Nursing, Cebu Institute of Technology University"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/elementary_mentor_01.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/elementary_mentor_01.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
       "B.A., Drama, Studio Practice, Art History & Visual Culture, Rhodes University",
       "Head Teacher, Apax Leaders"
     ],
-    "img":  "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/elementary_mentor_02.png"
+    "img":  "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/elementary_mentor_02.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
       "M.A., International Relations, American University",
       "Senior Teacher, International Institute for Education, China"
     ],
-    "img":  "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/elementary_mentor_03.png"
+    "img":  "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/elementary_mentor_03.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
       "M.A., Law, Lazarski University, Poland",
       "Experience teaching at Popodoo, The Lighthouse, DreamSky and American English Council"
     ],
-    "img":  "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Mat.jpg"
+    "img":  "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Mat.jpg"
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
       "1 year of PhD program in Social Psychology, Warsaw University (granted by Erasmus Mundus Consortium)",
       "3 years of experience teaching English at Haiphong State University"
     ],
-    "img":  "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Tatiana.jpg"
+    "img":  "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Tatiana.jpg"
   },
   {
     "id": 7,
@@ -64,7 +64,7 @@
       "B.A., San Francisco State University",
       "TEFL Certified with 3 years of experience teaching ages 6-18 y/o"
     ],
-    "img":  "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Emily.jpg"
+    "img":  "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Emily.jpg"
   },
 
 
@@ -78,7 +78,7 @@
       "English Head of Department (grades 7, 8, 9, 10, 11, 12) at Insight Learning Center, South Africa",
       "IELTS teacher, Three Oaks School, Hanoi, Vietnam"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/ms_mentor_01.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/ms_mentor_01.png"
   },
   {
     "id": 9,
@@ -89,7 +89,7 @@
       "B.S. in General Studies, University of Pittsburgh",
       "Teach for India - Built curriculum for English, Math, and Science. Developed different Creative Arts, Dance, and Mentoring workshops for students of all ages in slum communities in Ahmedabad, Gujarat."
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/ms_mentor_02.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/ms_mentor_02.png"
   },
   {
     "id": 10,
@@ -101,7 +101,7 @@
       "TESOL Certified",
       "3+ years of experience teaching English Language Learners"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/ms_mentor_03.png" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/ms_mentor_03.png" 
   },
   {
     "id": 11,
@@ -113,7 +113,7 @@
       "Head S.T.E.A.M Teacher and English Language teacher, ISET, Vietnam",
       "English language teacher and S.T.E.A.M teacher, Pathway Academy, Vietnam"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/ms_mentor_04.png" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/ms_mentor_04.png" 
   },
   {
     "id": 12,
@@ -121,7 +121,7 @@
     "job":["Middle School Teacher"],
     "positions": ["Middle School Teacher"],
     "exp": [],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Dan.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Dan.jpg" 
   },
   {
     "id": 13,
@@ -129,7 +129,7 @@
     "job":["Middle School Teacher"],
     "positions": ["Middle School Teacher"],
     "exp": [],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Myles.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Myles.jpg" 
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "job":["Middle School Teacher"],
     "positions": ["Middle School Teacher"],
     "exp": [],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Zack.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Zack.jpg" 
   },
 
 
@@ -152,7 +152,7 @@
       "Deputy Chief Adjudicator, World Universities Debating Championships (WUDC) 2017",
       "Top 10 Adjudicator of Asia, UADC & Asian BP 2019"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/debate_mentor_01.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/debate_mentor_01.png"
   },
   {
     "id": 16,
@@ -164,7 +164,7 @@
       "Speaker at “Mastering the Art of Public Speaking” for the Eloquentia Club",
       "Founding Member of Fight Oar Die (501c3 Charitable Organization)"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/debate_mentor_03.png" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/debate_mentor_03.png" 
   },
   {
     "id": 17,
@@ -178,7 +178,7 @@
       "Convener of MK Youth English Economy Debate Tournament (co-hosted by Maeil Business Newspaper)",
       "Deputy Convener of Australasian Intervarsity Debating Championship, the largest debating championship for university students across the Pacific"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/debate_mentor_07.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/debate_mentor_07.jpg" 
   },
   {
     "id": 18,
@@ -194,7 +194,7 @@
       "Adjudicator for Asian World Schools Debating Championship",
       "Grand Finals Adjudicator, Diplomatic Academy of Vietnam Debate Open"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/debate_mentor_02.png" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/debate_mentor_02.png" 
   },
   {
     "id": 40,
@@ -205,7 +205,7 @@
       "Elementary Debate and Summer Camp Curriculum Designer",
       "Judging Panel for the Incheon Ganghwa High School 'Global Issue Forum' 2021"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/debate_mentor_04.png" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/debate_mentor_04.png" 
   },
 
 
@@ -219,7 +219,7 @@
       "A.A., in Communication Arts, State University of New York",
       "IELTS, SAT, ACT, SSAT, AP"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Francoa.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Francoa.jpg" 
   },
   {
     "id": 21,
@@ -231,7 +231,7 @@
       "M.S. in Biology, Hanoi National University of Education",
       "Science, AP, IB Bio"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Nhung.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Nhung.jpg" 
   },
   {
     "id": 22,
@@ -243,7 +243,7 @@
       "Elementary Latin Teacher at Hillsdale Preparatory Academy",
       "SAT, IGCSE, IELTS, TOEFL"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Regan.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Regan.jpg" 
   },
   {
     "id": 23,
@@ -255,6 +255,6 @@
       "Experience in developing primary and secondary math and science curricula",
       "SAT Math, IGCSE, AP Calculus, IELTS, SSAT, ACT"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Michael.jpg" 
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Michael.jpg" 
   }
 ]

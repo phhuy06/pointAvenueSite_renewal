@@ -10,7 +10,7 @@
       "Cử nhân, Học viện Quân sự Hoa Kỳ tại West Point"
     ],
     "desc": "Cử nhân, Học viện Quân sự Hoa Kỳ tại West Point",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/DG3.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/DG3.jpg"
   },
   {
     "id": 122,
@@ -23,7 +23,7 @@
       "Cử nhân, Học viện Quân sự Hoa Kỳ West Point"
     ],
     "desc": "Cử nhân, Học viện Quân sự Hoa Kỳ West Point",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Tommy.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Tommy.jpg"
   },
   {
     "id": 4,
@@ -36,7 +36,7 @@
       "Cử nhân, Đại học Liberty"
     ],
     "desc": "Cử nhân, Đại học Liberty",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Zack.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Zack.jpg"
   },
   {
     "id": 5,
@@ -49,7 +49,7 @@
       "Cử nhân, Đại học Dartmouth"
     ],
     "desc": "Huấn luyện viên Trại lãnh đạo nhân sự các tập đoàn BIG4",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Blake.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Blake.jpg"
   },
   {
     "id": 24,
@@ -62,7 +62,7 @@
       "Cử nhân Khoa học, Đại học Syracuse"
     ],
     "desc": "Cử nhân Khoa học, Đại học Syracuse",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Nick.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Nick.jpg"
   },
   {
     "id": 25,
@@ -75,7 +75,7 @@
       "Cử nhân ngành Quan hệ công chúng, Đại học Báo chí và Tuyên truyền"
     ],
     "desc": "Cử nhân ngành Quan hệ công chúng, Đại học Báo chí và Tuyên truyền",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Oanh.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Oanh.jpg"
   },
   {
     "id": 26,
@@ -88,7 +88,7 @@
       "Cử nhân Đại học du lịch Hà Nội"
     ],
     "desc": "Cử nhân Đại học du lịch Hà Nội",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/Cam_Thao.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/Cam_Thao.jpg"
   },
   {
     "id": 27,
@@ -102,7 +102,7 @@
       "Cử nhân Đại học Ngoại Thương"
     ],
     "desc": "Cử nhân Đại học Ngoại Thương",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/Phu.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/Phu.jpg"
   },
   {
     "id": 3,
@@ -114,7 +114,7 @@
       "Vận động viên Marathon"
     ],
     "desc": "Cử nhân Đại học Ngoại Thương",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/Nghia+Nguyen-Profile.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/Nghia+Nguyen-Profile.jpg"
   },
   {
     "id": 6,
@@ -126,6 +126,6 @@
       "Cố vấn Grit Camp",
       "Huấn luyện viên Trại lãnh đạo nhân sự các tập đoàn BIG4"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/duc-bui-20221028163648-yxa9k.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/duc-bui-20221028163648-yxa9k.png"
   }
 ]

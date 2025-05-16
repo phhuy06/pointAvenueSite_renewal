@@ -11,7 +11,7 @@
       "Captain, US Army Ranger",
       "BS, United States Military Academy"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Danny.jpeg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Danny.jpeg"
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@
       "Team Lead, Deloitte Private",
       "ACCA, CIA, CPA"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Trang.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Trang.jpg"
   },
   {
     "id": 6,
@@ -35,7 +35,7 @@
     "exp": [
       ""
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/ashley.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/ashley.png"
   },
   {
     "id": 7,
@@ -44,7 +44,7 @@
     "exp": [
       ""
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/veniese.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/veniese.png"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "exp": [
       ""
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/ben.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/ben.png"
   }
   ,
   {
@@ -63,7 +63,7 @@
     "exp": [
       ""
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Jacob+Mellor.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Jacob+Mellor.png"
   },
   {
     "id": 9,
@@ -72,6 +72,6 @@
     "exp": [
       ""
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/teachers/Bonny+Segopolo.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/teachers/Bonny+Segopolo.png"
   }
 ]

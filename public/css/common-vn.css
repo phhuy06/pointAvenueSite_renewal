@@ -5,7 +5,7 @@ header {position: fixed; left:0; top:0; width:100%; z-index: 99999; background: 
 header .header_inner{position: relative; max-width:1170px; width:100%; margin:0 auto; padding:10px; height: 50px; box-sizing: border-box;}
 header .header_inner:after {content:''; display: inline-block; clear: both;}
 header .logo {float: left;}
-header .logo a:before{content:''; display: inline-block;width:162px; height: 26px;background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/logo.svg') no-repeat; background-size: 162px auto;  }
+header .logo a:before{content:''; display: inline-block;width:162px; height: 26px;background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/logo.svg') no-repeat; background-size: 162px auto;  }
 header .gnb {float: right;}
 header .gnb_cont {display:inline-block; /*margin-right: 60px ;*/ vertical-align: top;}
 header .gnb_cont ul{float: left;}
@@ -26,7 +26,7 @@ header .gnb_etc li + li{margin-left: 5px;}
 header .gnb_etc .btn_type_01 {min-width: 90px;}
 header .gnb_etc .btn_type_01:first-child {margin-right: 5px;}
 header .gnb_etc .btn_search {display: inline-block; padding:5px;}
-header .gnb_etc .btn_search:before{content:''; display: inline-block;width:20px; height: 21px;background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/seach_icon.svg') no-repeat; background-size: 20px auto;  }
+header .gnb_etc .btn_search:before{content:''; display: inline-block;width:20px; height: 21px;background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/seach_icon.svg') no-repeat; background-size: 20px auto;  }
 
 
 
@@ -47,10 +47,10 @@ footer .footer_etc_wrap .copyright {float: left; line-height: 30px;}
 footer .footer_sns_menu {float: right;}
 footer .footer_sns_menu li {display: inline-block;vertical-align: top;}
 footer .footer_sns_menu li a{display: inline-block; width:30px; height: 30px;}
-footer .footer_sns_menu .sns_icon_y a{background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/f_youtube_icon.svg') no-repeat;}
-footer .footer_sns_menu .sns_icon_f a{background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/f_facebook_icon.svg') no-repeat;}
-footer .footer_sns_menu .sns_icon_i a{background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/f_instagram_icon.svg') no-repeat;}
-footer .footer_sns_menu .sns_icon_l a{background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/f_linkedin_icon.svg') no-repeat;}
+footer .footer_sns_menu .sns_icon_y a{background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/f_youtube_icon.svg') no-repeat;}
+footer .footer_sns_menu .sns_icon_f a{background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/f_facebook_icon.svg') no-repeat;}
+footer .footer_sns_menu .sns_icon_i a{background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/f_instagram_icon.svg') no-repeat;}
+footer .footer_sns_menu .sns_icon_l a{background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/f_linkedin_icon.svg') no-repeat;}
 
 
 /* mobile header */
@@ -80,7 +80,7 @@ footer .footer_sns_menu .sns_icon_l a{background: url('https://paathena-public-p
 }
 /*===================== dark mode ======================*/
 .dark header {background: #000; color:#fff;}
-.dark header .logo a:before {background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/logo_w.svg') no-repeat; }
+.dark header .logo a:before {background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/logo_w.svg') no-repeat; }
 
 @media screen and (max-width:1200px) {
 	header .header_inner {padding:10px 40px;}

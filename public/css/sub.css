@@ -55,7 +55,7 @@
 .mentors_wrap .swipe_type_01 .swipe_type_01--desc {margin-top: 0;}
 
 /*============== aboutus ==============*/
-.about_us .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/about-us/visual.png') right no-repeat; background-size: cover;}
+.about_us .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/about-us/visual.png') right no-repeat; background-size: cover;}
 .about_us .about_intro_wrap .video_wrap{position:relative; overflow:hidden ; width:50%; padding-top:28%; max-height: 317px;  overflow: hidden;}
 .about_us .about_intro_wrap .video_wrap iframe {position:absolute; left:0; top:0; width:100%; height: 100%; border-radius: 20px;}
 .about_us .about_intro_wrap .video_desc_wrap{width:50%;}
@@ -89,19 +89,19 @@
 
 .about_us .history_wrap .title_s_01 { font-family: 'roboto'; font-size: 24px; font-weight: 800; margin-bottom:20px;}
 .about_us .history_wrap .history_box_01 {}
-.about_us .history_wrap .history_box_01 .history_box_inner {height:695px; padding:80px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/about-us/our_history_bg.png') no-repeat; background-size:100% 100%;}
+.about_us .history_wrap .history_box_01 .history_box_inner {height:695px; padding:80px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/about-us/our_history_bg.png') no-repeat; background-size:100% 100%;}
 .about_us .history_wrap .history_box_02 {padding-left:60px;}
 .about_us .history_wrap .say_box {margin-bottom:60px;}
 .about_us .history_wrap .say_box .text {position:relative; padding:10px 40px 15px; font-size:16px; word-break:keep-all;}
-.about_us .history_wrap .say_box .text:before {content:''; display:inline-block; width:26px; height:25px; position:absolute; left:0; top:0; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/about-us/double.png') no-repeat;}
+.about_us .history_wrap .say_box .text:before {content:''; display:inline-block; width:26px; height:25px; position:absolute; left:0; top:0; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/about-us/double.png') no-repeat;}
 .about_us .history_wrap .say_box .name {padding:10px 0 0 40px; font-size:14px;}
 
 /*============== classes ==============*/
-.classes .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/common/classes_visual.png') right no-repeat; background-size: cover;}
+.classes .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/common/classes_visual.png') right no-repeat; background-size: cover;}
 .classes .courses_type_box .class_box_type_01 {margin-top:15px;}
 
 /*============== all_elmentary_courses ==============*/
-.all_elmentary_courses .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/common/classes_visual.png') right no-repeat; background-size: cover;}
+.all_elmentary_courses .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/common/classes_visual.png') right no-repeat; background-size: cover;}
 .all_elmentary_courses .mentors_wrap .swipe_type_01--item:nth-child(4) .swipe_type_01--img .img_box img {top:-5%}
 .all_elmentary_courses .mentors_wrap .swipe_type_01--item:nth-child(5) .swipe_type_01--img .img_box img {top:-15%}
 .all_elmentary_courses .mentors_wrap .swipe_type_01--item:nth-child(6) .swipe_type_01--img .img_box img {top:-17%}
@@ -153,7 +153,7 @@
 
 
 /*============== careers ==============*/
-.careers .visual_wrap {background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/careers/careers_visual.png') center no-repeat; background-size: cover;}
+.careers .visual_wrap {background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/careers/careers_visual.png') center no-repeat; background-size: cover;}
 .careers .visual_wrap .title_r_01 {color:#fff}
 .careers .offer_wrap .offer_list ul{overflow: hidden;margin-top: 40px;}
 .careers .offer_wrap .offer_list ul li{position: relative;display: inline-block;float: left; width:25%; margin-bottom: 40px; font-size: 0; vertical-align: top;}
@@ -167,17 +167,17 @@
 .careers .open_position_wrap .btn_type_01.all {position: absolute; right:0; top:0;}
 
 /*============== job_description ==============*/
-.job_description .visual_wrap {background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/job-description/job-description_visual.png') center no-repeat; background-size: cover;}
+.job_description .visual_wrap {background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/job-description/job-description_visual.png') center no-repeat; background-size: cover;}
 .job_description .visual_wrap .title_r_01 {color:#fff;}
 .job_description .visual_wrap .text_box .info p {display: inline-block; color:#fff; padding:5px 0 5px 30px; font-size: 16px;}
-.job_description .visual_wrap .text_box .info .loaction {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/job-description/location_icon.png') left center no-repeat;}
-.job_description .visual_wrap .text_box .info .time {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/job-description/calendar_icon.png') left center no-repeat;}
+.job_description .visual_wrap .text_box .info .loaction {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/job-description/location_icon.png') left center no-repeat;}
+.job_description .visual_wrap .text_box .info .time {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/job-description/calendar_icon.png') left center no-repeat;}
 .job_description .visual_wrap .text_box .info p + p {margin-left: 100px;}
 .job_description .file_box {margin-top: 30px;}
 .job_description .file_box p {margin-bottom: 10px;}
  
 /*============== admission_consulting ==============*/
-.admission_consulting .visual_wrap {background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/admission-consulting/AC-new.png') right no-repeat; background-size: cover;}
+.admission_consulting .visual_wrap {background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/admission-consulting/AC-new.png') right no-repeat; background-size: cover;}
 .admission_consulting .info_wrap .title_r_03 {text-align: center; margin:30px 0 25px;}
 .admission_consulting .info_wrap .swiper-pagination-bullets .swiper-pagination-bullet {background: #F2B41B; opacity: 1;}
 .admission_consulting .info_wrap .swiper-pagination-bullets .swiper-pagination-bullet-active { width:50px; border-radius: 12px; background: #F2B41B; opacity: 1;}
@@ -229,18 +229,18 @@
 .admission_consulting .info_wrap_iframe iframe{ height: 950px;}
 
 .class_detail h3 {position: relative; padding-left:60px;margin-bottom: 10px; line-height: 1.5; font-family: 'roboto'; font-size: 30px; font-weight: 800;}
-.class_detail h3:before{position: absolute; left:0;content:''; display: inline-block; width:46px; height: 60px; margin-right: 15px; background: url("https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/title_icon.png") no-repeat; background-size: 46px auto; vertical-align: middle;}
+.class_detail h3:before{position: absolute; left:0;content:''; display: inline-block; width:46px; height: 60px; margin-right: 15px; background: url("https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/title_icon.png") no-repeat; background-size: 46px auto; vertical-align: middle;}
 .class_detail h3:after{content:''; display: inline-block; width:110px; height: 5px; position: absolute; top:44px; left:60px; background: #F2B41B;}
 
 
 /*============== all_ms_courses ==============*/
-.all_ms_courses .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/ms_visual.png') right no-repeat; background-size: cover;}
+.all_ms_courses .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/ms_visual.png') right no-repeat; background-size: cover;}
 
 /*============== all_debate_courses ==============*/
-.all_debate_courses .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/debate_visual.png') right no-repeat; background-size: cover;}
+.all_debate_courses .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/debate_visual.png') right no-repeat; background-size: cover;}
 
 /*============== all_test_prep_courses ==============*/
-.all_test_prep_courses .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/program/test_prep_visual.png') right no-repeat; background-size: cover;}
+.all_test_prep_courses .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/program/test_prep_visual.png') right no-repeat; background-size: cover;}
 .all_test_prep_courses .model_wrap .text_box {padding-right: 80px;}
 .all_test_prep_courses .mentors_wrap .swipe_type_01 .swipe_type_01--item:nth-child(1) .img_box img {top:-5%;}
 .all_test_prep_courses .mentors_wrap .swipe_type_01 .swipe_type_01--item:nth-child(3) .img_box img {top:-16%;}
@@ -255,7 +255,7 @@
 .IELTS .course_books_wrap .books_list {float: left; width:50%; padding-left: 100px;}
 
 /*=============article ========*/
-.article .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/news/article_visual.png') right no-repeat; background-size: cover;}
+.article .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/news/article_visual.png') right no-repeat; background-size: cover;}
 .article .visual_wrap .text_box {color:#fff; top:auto; bottom:5%;} 
 .article .article_wrap img {width:100%; margin: 30px 0; height: auto; object-position: center; 	object-fit: cover;}
 .article .article_wrap .greet {font-size: 18px; font-weight: 800; margin-top: 30px;}
@@ -283,7 +283,7 @@
 .article .article_wrap ul li {list-style:unset;}
 
 /*=============news ========*/
-.news .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/news/news_visual.jpg') top right no-repeat; background-size: cover;}
+.news .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/news/news_visual.jpg') top right no-repeat; background-size: cover;}
 .news .box_type_01 .box_type_01--img img {min-width: 110%; }
 .news .container .section_inner{position: relative;}
 .news .container .articles_wrap .section_header{
@@ -339,7 +339,7 @@
     display: inline-block;
     width: 20px;
     height: 24px;
-    background: url(https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/filter_icon.png) center no-repeat;
+    background: url(https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/filter_icon.png) center no-repeat;
     background-size: 20px auto;
     vertical-align: middle;
     margin-right: 5px;
@@ -369,9 +369,9 @@
 
 .news .event_wrap .box_type_01 .date {position: relative; padding-left: 30px; margin: 10px 0;}
 .news .event_wrap .box_type_01 .date p + p {margin-top: 5px;}
-.news .event_wrap .box_type_01 .date:before {content:''; position: absolute; left:0; top:0; display: inline-block; width:20px; height: 20px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/calendar_s_icon.png') no-repeat;}
+.news .event_wrap .box_type_01 .date:before {content:''; position: absolute; left:0; top:0; display: inline-block; width:20px; height: 20px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/calendar_s_icon.png') no-repeat;}
 .news .event_wrap .box_type_01 .location {position: relative; padding-left: 30px; margin: 10px 0;}
-.news .event_wrap .box_type_01 .location:before {content:''; position: absolute; left:0; top:0; display: inline-block; width:20px; height: 20px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/location_s_icon.png') no-repeat;}
+.news .event_wrap .box_type_01 .location:before {content:''; position: absolute; left:0; top:0; display: inline-block; width:20px; height: 20px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/location_s_icon.png') no-repeat;}
 .news .box_type_01 .box_type_01--item {
 	margin-bottom: 20px;
 	display: flex;
@@ -388,14 +388,14 @@
 	border-radius: 10px 10px 0 0;
 }
 /*=============point_avenue_tv ========*/
-.point_avenue_tv .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/news/tv_visual.jpg') top right no-repeat; background-size: cover;}
+.point_avenue_tv .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/news/tv_visual.jpg') top right no-repeat; background-size: cover;}
 .point_avenue_tv .youtube_wrap {background: #fff; text-align: center; padding:40px 0;}
 .point_avenue_tv .youtube_wrap .btn_type_01--sec{margin: 30px auto 0;}
 .point_avenue_tv .spotlight_wrap .section_title_02 {font-family: 'Montserrat', sans-serif;}
 .point_avenue_tv .box_type_01 .box_type_01--desc a{font-family: 'Montserrat', sans-serif;}
 
 /*=============scholarhip ========*/
-.scholarhip .visual_wrap{background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/point-avenue/scholarship/visual.png') right no-repeat; background-size: cover;}
+.scholarhip .visual_wrap{background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/point-avenue/scholarship/visual.png') right no-repeat; background-size: cover;}
 .scholarhip .scholar_wrap .img_box img {border-radius: 20px;}
 .scholarhip .process_wrap .section_inner {overflow: hidden;}
 .scholarhip .process_step_wrap .process_step_list .process_step_item {width:33.33%;}
@@ -424,15 +424,15 @@
 /*============= boarding_camp ========*/
 .boarding_camp .container {background-color: #000;}
 .boarding_camp .container .section_inner{position: relative; z-index: 10; padding: 0;}
-.boarding_camp .visual_wrap {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/visual.png') right no-repeat; background-size: cover;}
+.boarding_camp .visual_wrap {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/visual.png') right no-repeat; background-size: cover;}
 .boarding_camp .camp_info_wrap .video_article iframe{width: 100%; height: 400px; border-radius: 20px;}
 .boarding_camp .camp_info_wrap .text_article {padding-left: 40px;}
 .boarding_camp .camp_info_wrap .btn_box {text-align: center; margin-top: 40px;}
 .boarding_camp .camp_info_wrap .btn_box a {margin: 0 auto;}
 .boarding_camp .philosophy_wrap .section_inner{position: relative; z-index: 10;}
-.boarding_camp .philosophy_wrap .cloud_wrap .cloud_item_01{position: absolute; left:-80px; top:-100px; width:110px; height: 72px;background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/cloud_01.png') no-repeat; z-index: -1; }
-.boarding_camp .philosophy_wrap .cloud_wrap .cloud_item_02{position: absolute; right:0px; top:-10px; width: 96px; height: 95px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/cloud_02.png') no-repeat; z-index: -1;}
-.boarding_camp .philosophy_wrap .cloud_wrap .cloud_item_03{position: absolute; left:-100px; bottom:-50px; width:129px; height: 85px;background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/cloud_03.png') no-repeat; z-index: -1;}
+.boarding_camp .philosophy_wrap .cloud_wrap .cloud_item_01{position: absolute; left:-80px; top:-100px; width:110px; height: 72px;background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/cloud_01.png') no-repeat; z-index: -1; }
+.boarding_camp .philosophy_wrap .cloud_wrap .cloud_item_02{position: absolute; right:0px; top:-10px; width: 96px; height: 95px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/cloud_02.png') no-repeat; z-index: -1;}
+.boarding_camp .philosophy_wrap .cloud_wrap .cloud_item_03{position: absolute; left:-100px; bottom:-50px; width:129px; height: 85px;background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/cloud_03.png') no-repeat; z-index: -1;}
 .boarding_camp .differences_wrap .asset_list  {overflow: hidden; margin-top:100px;}
 .boarding_camp .differences_wrap .asset_item {float: left; width:33.33%; text-align: center; min-height: 300px;}
 .boarding_camp .differences_wrap .asset_item:nth-child(n+4) {width:50%; margin-top: 20px;}
@@ -2013,7 +2013,7 @@ margin-top: 0;
 }
 
 .boarding_camp .container .experience .block-2 .boxDetail .ic-academic{
-	background-image: url("https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/icons.jpg");
+	background-image: url("https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/icons.jpg");
 	background-repeat: no-repeat;
 	background-position: 0 0;
 }
@@ -2069,7 +2069,7 @@ margin-top: 0;
 .boarding_camp .container .experience .block-2 .boxDetail .boxExperience .header .img-leader{
 	width: 46px;
   height: 44px;
-  background-image: url("https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/images.jpg");
+  background-image: url("https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/images.jpg");
 	background-repeat: no-repeat;
 	background-position: -5px -5px;
 }
@@ -2271,9 +2271,9 @@ margin-top: 0;
 
 
 /*============= online_learning ========*/
-.online_learning .container {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/bg.png') no-repeat; background-position:center top 400px ;-webkit-background-size: 100% 100%;-moz-background-size: 100% 100%;background-size: 100% 100%;}
+.online_learning .container {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/bg.png') no-repeat; background-position:center top 400px ;-webkit-background-size: 100% 100%;-moz-background-size: 100% 100%;background-size: 100% 100%;}
 .online_learning .container .section_inner{position: relative; z-index: 10;}
-.online_learning .visual_wrap {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/online-learning/online-learning-banner-mask.png') right no-repeat; background-size: cover;}
+.online_learning .visual_wrap {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/online-learning/online-learning-banner-mask.png') right no-repeat; background-size: cover;}
 .online_learning .visual_wrap .title_r_01 {text-transform: uppercase; width: 49%}
 .online_learning .visual_wrap .section_inner .text_box {top: 20%}
 .online_learning .camp_info_wrap .video_article iframe{width: 100%; height: 400px; border-radius: 20px;}
@@ -2301,9 +2301,9 @@ margin-top: 0;
 
 .online_learning .history_box .say_box {margin-bottom:60px;}
 .online_learning .history_box .say_box .text {position:relative; padding:10px 40px 15px; font-size:16px; word-break:keep-all;}
-.online_learning .history_box .say_box .text:before {content:''; display:inline-block; width:26px; height:25px; position:absolute; left:0; top:0; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/online-learning/double-open.png') no-repeat;}
+.online_learning .history_box .say_box .text:before {content:''; display:inline-block; width:26px; height:25px; position:absolute; left:0; top:0; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/online-learning/double-open.png') no-repeat;}
 
-.online_learning .history_box .say_box .text:after {content:''; display:inline-block; width:26px; height:25px; position:absolute; right:0; bottom:-30px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/online-learning/double-close.png') no-repeat;}
+.online_learning .history_box .say_box .text:after {content:''; display:inline-block; width:26px; height:25px; position:absolute; right:0; bottom:-30px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/online-learning/double-close.png') no-repeat;}
 .online_learning .history_box .say_box .name {padding:10px 0 0 40px; font-size:14px; font-weight: 700}
 
 .online_learning .swiper-pagination-bullets .swiper-pagination-bullet {background: #F2B41B; opacity: 1;}
@@ -2327,9 +2327,9 @@ margin-top: 0;
 
 
 /*============= online_debate ========*/
-/* .online_debate .container {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/bg.png') no-repeat; background-position:center top 400px ;-webkit-background-size: 100% 100%;-moz-background-size: 100% 100%;background-size: 100% 100%;} */
+/* .online_debate .container {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/bg.png') no-repeat; background-position:center top 400px ;-webkit-background-size: 100% 100%;-moz-background-size: 100% 100%;background-size: 100% 100%;} */
 .online_debate .container .section_inner{position: relative; z-index: 10;}
-.online_debate .visual_wrap {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/online-learning/online-learning-banner-mask.png') right no-repeat; background-size: cover;}
+.online_debate .visual_wrap {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/online-learning/online-learning-banner-mask.png') right no-repeat; background-size: cover;}
 .online_debate .visual_wrap .title_r_01 {text-transform: uppercase; width: 80%}
 .online_debate .visual_wrap .section_inner .text_box {top: 20%}
 .online_debate .camp_info_wrap .video_article iframe{width: 100%; height: 400px; border-radius: 20px;}
@@ -2359,9 +2359,9 @@ margin-top: 0;
 
 .online_debate .history_box .say_box {margin-bottom:60px;}
 .online_debate .history_box .say_box .text {position:relative; padding:10px 40px 15px; font-size:16px; word-break:keep-all;}
-.online_debate .history_box .say_box .text:before {content:''; display:inline-block; width:26px; height:25px; position:absolute; left:0; top:0; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/online-learning/double-open.png') no-repeat;}
+.online_debate .history_box .say_box .text:before {content:''; display:inline-block; width:26px; height:25px; position:absolute; left:0; top:0; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/online-learning/double-open.png') no-repeat;}
 
-.online_debate .history_box .say_box .text:after {content:''; display:inline-block; width:26px; height:25px; position:absolute; right:0; bottom:-30px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/online-learning/double-close.png') no-repeat;}
+.online_debate .history_box .say_box .text:after {content:''; display:inline-block; width:26px; height:25px; position:absolute; right:0; bottom:-30px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/online-learning/double-close.png') no-repeat;}
 .online_debate .history_box .say_box .name {padding:10px 0 0 40px; font-size:14px; font-weight: 700}
 
 .online_debate .swiper-pagination-bullets .swiper-pagination-bullet {background: #F2B41B; opacity: 1;}
@@ -3783,7 +3783,7 @@ margin-top: 0;
 }
 
 .day_camp .container .experience .block-2 .boxDetail .ic-academic{
-	background-image: url("https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/icons.jpg");
+	background-image: url("https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/icons.jpg");
 	background-repeat: no-repeat;
 	background-position: 0 0;
 }
@@ -3813,7 +3813,7 @@ margin-top: 0;
 .day_camp .container .experience .block-2 .boxDetail .boxExperience .header .img-leader{
 	width: 46px;
   height: 44px;
-  background-image: url("https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/summer/boarding/images.jpg");
+  background-image: url("https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/summer/boarding/images.jpg");
 	background-repeat: no-repeat;
 	background-position: -5px -5px;
 }
@@ -4004,9 +4004,9 @@ margin-top: 0;
 
 .lotte_wrap section{margin-bottom:0 !important;}
 
-.online_summer_camp .visual_wrap {background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/online/summer-visual.jpg') right no-repeat; background-size: cover;}
+.online_summer_camp .visual_wrap {background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/online/summer-visual.jpg') right no-repeat; background-size: cover;}
 .online_summer_camp .visual_wrap .title_r_01 {color:#fff;}
-.online_summer_camp .online_summer_desc_wrap{padding-top:400px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/online/online-camp-bg.png') top center no-repeat;}
+.online_summer_camp .online_summer_desc_wrap{padding-top:400px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/online/online-camp-bg.png') top center no-repeat;}
 .online_summer_camp .online_summer_desc_wrap p{text-align: center; font-size: 24px;}
 .online_summer_camp .online_summer_desc_wrap .btn_box {text-align: center; margin-top: 40px;}
 .online_summer_camp .online_summer_desc_wrap .btn_box a {display: inline-block; max-width: 320px; max-height: 60px; font-size: 24px; font-family: 'roboto'; background: #FF9900; color:#fff; border-radius: 30px; font-weight: 800; padding: 10px 50px;}
@@ -4027,9 +4027,9 @@ margin-top: 0;
 .online_summer_camp .future_wrap li{font-size:16px;}
 .online_summer_camp .future_wrap .grid_type_wrap_02:after {content:''; display:block; clear: both;}
 .online_summer_camp .future_wrap .img_article{position: relative;}
-.online_summer_camp .future_wrap .img_article:before {content:""; display:block; position: absolute; left:0; top:0; width:100%; padding-top:600px; margin-top:-150px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/online/camp_special_bg.png') top center no-repeat; z-index: 1;}
+.online_summer_camp .future_wrap .img_article:before {content:""; display:block; position: absolute; left:0; top:0; width:100%; padding-top:600px; margin-top:-150px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/online/camp_special_bg.png') top center no-repeat; z-index: 1;}
 .online_summer_camp .future_wrap .img_article img{position: relative; z-index:2; border-radius: 10px; width: 573px; height: 395px;}
-.online_summer_camp .make_our_camps{ background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/online/a-typical-camp-day-img.png')}
+.online_summer_camp .make_our_camps{ background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/online/a-typical-camp-day-img.png')}
 .online_summer_camp .img_article .swiper-container {overflow: inherit;}
 .online_summer_camp .img_article .swiper-pagination {bottom:-20px;}
 .online_summer_camp .meet_team_wrap { padding-bottom: 800px; margin-bottom: -800px;}
@@ -4041,8 +4041,8 @@ margin-top: 0;
 
 .online_summer_camp.vn *{font-family: 'Montserrat', sans-serif;}
 .online_summer_camp.vn .title_r_02 {font-family: 'Montserrat', sans-serif;}
-.online_summer_camp.vn .online_summer_desc_wrap{margin-top:0;padding-top:530px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/online/vn/online-camp-bg.png') top 100px center no-repeat;}
-.online_summer_camp.vn .make_our_camps{ background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/online/vn/a-typical-camp-day-img.png')}
+.online_summer_camp.vn .online_summer_desc_wrap{margin-top:0;padding-top:530px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/online/vn/online-camp-bg.png') top 100px center no-repeat;}
+.online_summer_camp.vn .make_our_camps{ background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/online/vn/a-typical-camp-day-img.png')}
 .online_summer_camp.vn .online_summer_desc_wrap .btn_box a.eng {background: #FFF3D5; color:#CEB58F;} 
 .online_summer_camp.vn .online_summer_desc_wrap .btn_box a.vitn {background: #FF9900; color:#fff;}
 

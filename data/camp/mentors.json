@@ -12,7 +12,7 @@
       "BS, United States Military Academy"
     ],
     "desc": "B.S. United States Military Academy at West Point",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/DG3.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/DG3.jpg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
       "BS, United States Military Academy"
     ],
     "desc": "M.B.A. The Wharton School of the University of Pennsylvania",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Tommy.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Tommy.jpg"
   },
   {
     "id": 4,
@@ -43,7 +43,7 @@
       "ACCA, CIA, CPA"
     ],
     "desc": "B.S. in Global Studies, Liberty University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Zack.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Zack.jpg"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
       "Residential Counselor & Summer Program Teacher, Youth Opportunities Upheld, Inc.",
       "B.A., University of Massachusetts, Amherst"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Dr.+Les+Knotts.jpeg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Dr.+Les+Knotts.jpeg"
   },
   {
     "id": 7,
@@ -68,7 +68,7 @@
       "M.A. and B.A., National Economics University "
     ],
     "desc": "B.A. in Drama, Studio Practice as well as Art History & Visual Culture, Rhodes University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Jesika.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Jesika.jpg"
   },
   {
     "id":8,
@@ -81,7 +81,7 @@
       "B.S., United States Military Acedemy at West Point ",
       "TEFL & Test Prep Certifications "
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Mark Simpson.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Mark Simpson.jpg"
   },
   {
     "id": 9,
@@ -93,7 +93,7 @@
       "IELTS Chief Invigilator, IDP Education",
       "B.A., International Pacific College"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Katrina.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Katrina.jpg"
   },
   {
     "id": 10,
@@ -106,7 +106,7 @@
       "B.A. and B.S., University of Virginia",
       "TEFL & Design Thining and Innovation Certifications"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Ben.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Ben.jpg"
   },
   {
     "id": 11,
@@ -119,7 +119,7 @@
       "Completing Masters of Science Education, Johns Hopkins University",
       "Completing Certificate of Early Childhood Leadership, Harvard Graduate School of Education"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Sarah.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Sarah.jpg"
   },
   {
     "id": 12,
@@ -132,7 +132,7 @@
       "B.A., University of Massachusetts Amherst",
       "Author of  8 academic papers on summer camp, creativity, motivation, and natural resource management(Journal of Youth Development, Energy Research and Social Science, Journal of Outdoor Recreation and Tourism)"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Jacob.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Jacob.jpg"
   },
   {
     "id": 13,
@@ -146,6 +146,6 @@
       "M.S., University of New Hampshire",
       "B.A., University of Washington Southern"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Nierru.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Nierru.jpg"
   }
 ]

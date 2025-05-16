@@ -10,7 +10,7 @@
       "B.S., United States Military Academy at West Point"
     ],
     "desc": "B.S., United States Military Academy at West Point",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/DG3.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/DG3.jpg"
   },
   {
     "id": 122,
@@ -23,7 +23,7 @@
       "B.S., United States Military Academy at West Point"
     ],
     "desc": "B.S., United States Military Academy at West Point",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Tommy.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Tommy.jpg"
   },
   {
     "id": 4,
@@ -36,7 +36,7 @@
       "B.S. in Global Studies, Liberty University"
     ],
     "desc": "B.S. in Global Studies, Liberty University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Zack.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Zack.jpg"
   },
   {
     "id": 5,
@@ -50,7 +50,7 @@
       "B.S. in Economics & Asian and Middle Eastern Studies, Dartmouth College"
     ],
     "desc": "Mentor, Leaders' Camp for BIG4 Co-operation",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Blake.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Blake.jpg"
   },
   {
     "id": 24,
@@ -63,7 +63,7 @@
       "B.S in Science, Syracuse University"
     ],
     "desc": "BS, Syracuse University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Nick.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Nick.jpg"
   },
   {
     "id": 25,
@@ -76,7 +76,7 @@
       "B.A. in Public Relations, Academy of Journalism and Communication"
     ],
     "desc": "B.A. in Public Relations, Academy of Journalism and Communication",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Oanh.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Oanh.jpg"
   },
   {
     "id": 26,
@@ -89,7 +89,7 @@
       "B.A. in Restaurant Management, Hanoi Tourism College"
     ],
     "desc": "B.A. in Restaurant Management, Hanoi Tourism College",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/Cam_Thao.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/Cam_Thao.jpg"
   },
   {
     "id": 27,
@@ -103,7 +103,7 @@
       "BA, International Economics, Foreign Trade University"
     ],
     "desc": "BA, International Economics, Foreign Trade University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/Phu.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/Phu.jpg"
   },
   {
     "id": 3,
@@ -116,7 +116,7 @@
       "B.S. International Economics, Foreign Trade University"
     ],
     "desc": "B.S. International Economics, Foreign Trade University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/Nghia+Nguyen-Profile.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/Nghia+Nguyen-Profile.jpg"
   },
   {
     "id": 6,
@@ -128,6 +128,6 @@
       "Leadership Camp Trainer for Big4 Corporations",
       "Ran 300km during the 30-year Deloitte Anniversary Running Challenge"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/sub/camp/grit/duc-bui-20221028163648-yxa9k.png"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/sub/camp/grit/duc-bui-20221028163648-yxa9k.png"
   }
 ]

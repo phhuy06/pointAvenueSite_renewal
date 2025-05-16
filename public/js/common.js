@@ -44,7 +44,8 @@ $(document).ready(function () {
   // http -> https
   if (
     window.location.href.includes("localhost") ||
-    window.location.href.includes("127.0.0.1")
+    window.location.href.includes("127.0.0.1") || 
+    window.location.href.includes("143.198.87.208")
   ) {
     console.log("Local Development");
   } else {

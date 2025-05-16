@@ -14,7 +14,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/English_Learning_Foundations_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/English_Learning_Foundations_1.jpg",
     "desc": [
       "Our EL Fundamental courses start with English Language Starters where students are first introduced to the English alphabet & short vowel sounds, advancing through our Phonics course focused on long vowels & consonant blends, and completing in our Foundations course where students can confidently read & write simple sentences.",
       "Students engage in various learning activities, practice reading / listening / speaking / writing, refine their fine motor skills, and are exposed to social learning through designed interactions with their peers."
@@ -36,7 +36,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/English_Learning_Foundations_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/English_Learning_Foundations_2.jpg",
         "strings": [
           "Alphabet recognition and application",
           "Short vowel sounds",
@@ -47,7 +47,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/elem_book_English_Learning_Fundamentals.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/elem_book_English_Learning_Fundamentals.jpg",
         "strings": [
           "<strong>Fly Phonics 1 to 4:</strong> Phonic series that cover the alphabet & sounds, short & long vowels, and consonant blends & digraphs.",
           "<strong>Reading Sketch Starters 1 to 3:</strong> To apply basic phonic knowledge to practical reading application, the Reading Sketch Starter series support fundamental phonics learning through visual stories and exciting themes.",
@@ -78,7 +78,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/English_Learning_1-4_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/English_Learning_1-4_1.jpg",
     "desc": [
       "Our EL 1 to 4 courses aim to develop the core language skills; Reading, Listening, Speaking, and Writing. Each level has been aligned to the US Common Core State Standards to provide rigorous standards and support advance English learning.",
       "Our experienced mentors deliver engaging lessons, as well as focus on student character building, in order to support holistic learning. This focuses on the whole child as a young learner. Students maintain vocabulary journals, learn various academic skills, practice and produce from lesson objectives, and collaborate on projects."
@@ -100,7 +100,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/English_Learning_1-4_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/English_Learning_1-4_2.jpg",
         "strings": [
           "Improve reading comprehension to a US 5th grade equivalent",
           "Recognize elements of a story",
@@ -110,7 +110,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/elem_book_English_Learning_1-4.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/elem_book_English_Learning_1-4.jpg",
         "strings": [
           "<strong>Subject Link 1 to 8:</strong> This series is used to support topic knowledge, themed/multi-disciplined learning, and improve reading comprehension. The themes are used to engage students, using their curiosity to learn specific vocabulary. The passages are used to practice reading skills and improve comprehension.",
           "<strong>Spectrum Writing:</strong> The workbooks guide students as they write for a variety of purposes, including story-telling, personal narratives, descriptive writing, and opinion writing. This series also support current state standards, and take students through the full writing process; planning, drafting, revising, proofreading, and sharing writing.",
@@ -141,7 +141,7 @@
     "weeks": "17 weeks",
     "duration": "1.5 hours / week",
     "hour": "25.5 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Life_Coaching_Jr_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Life_Coaching_Jr_1.jpg",
     "desc": [
       "The purpose of Life Coaching is to develop good habits in order to make personal growth intentional. Good habits, such as goal setting, time management, and exercise are essential for long term health and social well-being of children and teens. Our Life Coaching curriculum focuses on social, emotional, and physical well-being. We integrate lessons associated with leadership and habit building to better prepare your child for the future. ",
       "In the EL3 Life Coaching course, mentors will work with your child to build self confidence, motivation, and empathy. This course uses a mindfulness and experiential approach to learning. Teachers use real world scenarios to nurture a positive mindset and begin to develop foundational skills for leadership such as critical thinking and creativity. Ultimately, students will learn the building blocks to develop good habits and create long term goals for personal growth. "
@@ -163,7 +163,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Life_Coaching_Jr_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Life_Coaching_Jr_2.jpg",
         "strings": [
           "<strong>General Course Structure:</strong><ul class=\"ul_type_02\"><li>30% Exercise and wellness (exercise in the gym)</li><li>30% Academically focused (reading, leadership speech, writing)</li><li>40% Leadership focused (teambuilding, concepts, activities)</li></ul>",
           "<strong>Course Outcomes:</strong><ul class=\"ul_type_02\"><li>Leadership speeches</li><li>Exercise for 30 minutes each class </li><li>Focused leadership vocabulary per week </li><li>Focus on understanding self and good habit building</li><li>Daily journal completion</li></ul>",
@@ -171,7 +171,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/elem_book_Life_Coaching_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/elem_book_Life_Coaching_Intermediate.jpg",
         "strings": [
           "7 Habits of Happy Kids by Sean Covey",
           "Point Avenue Daily Journal"
@@ -201,7 +201,7 @@
     "weeks": "17 weeks",
     "duration": "1.5 hours / week",
     "hour": "25.5 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Life_Coaching_EL_4_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Life_Coaching_EL_4_1.jpg",
     "desc": [
       "The purpose of Life Coaching is to develop good habits in order to make personal growth intentional. Good habits, such as goal setting, time management, and exercise are essential for long term health and social well-being of children and teens.Our Life Coaching curriculum focuses on social, emotional, and physical well-being. We integrate lessons associated with leadership and habit building to better prepare your child for the future. ",
       "This course is focused on more advanced self-development techniques including: emotional and physical health, social responsibility, and understanding psychology. Mentors guide students to develop strong core values that will help them navigate social situations. Basic life-skills, such as effective study strategies, career development, money management and community outreach are discussed. "
@@ -223,7 +223,7 @@
       "registrationText": "Diagnostic test registration ",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Life_Coaching_EL_4_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Life_Coaching_EL_4_2.jpg",
         "strings": [
           "<strong>General Course Structure:</strong><ul class=\"ul_type_02\"><li>30% Exercise and wellness (exercise in the gym)</li><li>30% Academically focused (reading, leadership speech, writing)</li><li>40% Leadership focused (teambuilding, concepts, activities)</li></ul>",
           "<strong>Course Outcomes:</strong><ul class=\"ul_type_02\"><li>3Leadership speeches and soft skill development</li><li>7-8 focused leadership vocabulary per week</li><li>5 leadership challenge completions</li><li>Foundational components of brain function</li><li>Focus on understanding self and the senses (sight, sound, smell, taste, touch)</li></ul>",
@@ -231,7 +231,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/elem_book_Life_Coaching_Advanced.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/elem_book_Life_Coaching_Advanced.jpg",
         "strings": [
           "<strong>Mind Up Curriculum</strong><br/>MindUP gives children the knowledge and tools they need to manage stress, regulate emotions and face the challenges of the 21st century with optimism, resilience and compassion.",
           "Point Avenue Daily Journal"
@@ -261,7 +261,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/ELA_Foundations_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/ELA_Foundations_1.jpg",
     "desc": [
       "This course is the first level in our Middle School ELA curriculum.",
       "This course is designed for students who are learning the foundations and basic of English.",
@@ -291,14 +291,14 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/middlehigh_objective.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/middlehigh_objective.jpg",
         "strings": [
           "Our ELA courses help students master the essential skills required for high school, college, career, and life in today’s global economy through adhering to United States Common Core Standards.<br/>Students advance through the four levels of ELA from Foundations to ELA Advanced.<br/>Students will be placed based on a diagnostic assessment which focuses on reading, writing, speaking, and listening proficiency.",
           "<strong>The ELA standards align with college expectations in 6 domains</strong><br/>1) Language (conventions, knowledge, vocabulary)<br/>2) Reading: Informational (ideas, details, structure, range, text complexity)<br/>3) Reading: Literature (ideas, details, structure, range, text complexity)<br/>4) Reading: Foundational (concepts, phonological awareness, recognition, fluency)<br/>5) Speaking and Listening (comprehension, collaboration, presentation)<br/>6) Writing (type, purpose, production, distribution, research, range of writing)"
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/middlehigh_books.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/middlehigh_books.jpg",
         "strings": [
           "National Geographic Pathways Foundations",
           "Reading & Writing / Speaking & Listening",
@@ -329,7 +329,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/ELA_Beginner_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/ELA_Beginner_1.jpg",
     "desc": [
       "Designed for students who have a minimal foundation with English language fundamentals involving reading, writing, listening, and speaking.",
       "Students at this level can communicate in English at a low level of fluency, requiring constant corrections and prompting.",
@@ -359,14 +359,14 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_obj_ELA_Beginner.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_obj_ELA_Beginner.jpg",
         "strings": [
           "Our ELA courses help students master the essential skills required for high school, college, career, and life in today’s global economy through adhering to United States Common Core Standards. Students advance through the four levels of ELA from Foundations to ELA Advanced. Students will be placed based on a diagnostic assessment which focuses on reading, writing, speaking, and listening proficiency.",
           "The ELA standards align with college expectations in 6 domains<br/>1) Language (conventions, knowledge, vocabulary)<br/>2) Reading: Informational (ideas, details, structure, range, text complexity)<br/>3) Reading: Literature (ideas, details, structure, range, text complexity)<br/>4) Reading: Foundational (concepts, phonological awareness, recognition, fluency)<br/>5) Speaking and Listening (comprehension, collaboration, presentation)<br/>6) Writing (type, purpose, production, distribution, research, range of writing)"
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_book_ELA_Beginner.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_book_ELA_Beginner.jpg",
         "strings": [
           "National Geographic Pathways Level 1",
           "Reading & Writing / Speaking & Listening",
@@ -397,7 +397,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/ELA_Intermediate_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/ELA_Intermediate_1.jpg",
     "desc": [
       "Designed for students who have a moderate grasp of English language fundamentals involving reading, writing, listening, and speaking. Students at this level can communicate in English with some fluency, requiring some corrections and prompting. The goal is to improve articulation, word choice, comprehension and speaking/written fluidity. Focus will be placed on appropriate grammatical conventions and vocabulary expansion. Pathways is National Geographic Learning's new five-level academic skills series that features reading & writing and listening & speaking strands to help learners develop the language skills needed to achieve academic success. Learners develop academic literacy skills through content, images and video from National Geographic. This innovative series provides learners with a pathway to success!",
       "",
@@ -421,14 +421,14 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_obj_ELA_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_obj_ELA_Intermediate.jpg",
         "strings": [
           "Our ELA courses help students master the essential skills required for high school, college, career, and life in today’s global economy through adhering to United States Common Core Standards. Students advance through the four levels of ELA from Foundations to ELA Advanced. Students will be placed based on a diagnostic assessment which focuses on reading, writing, speaking, and listening proficiency.",
           "The ELA standards align with college expectations in 6 domains<br/>1) Language (conventions, knowledge, vocabulary)<br/>2) Reading: Informational (ideas, details, structure, range, text complexity)<br/>3) Reading: Literature (ideas, details, structure, range, text complexity)<br/>4) Reading: Foundational (concepts, phonological awareness, recognition, fluency)<br/>5) Speaking and Listening (comprehension, collaboration, presentation)<br/>6) Writing (type, purpose, production, distribution, research, range of writing)"
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_book_ELA_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_book_ELA_Intermediate.jpg",
         "strings": [
           "National Geographic Pathways Level 2",
           "Reading & Writing / Speaking & Listening",
@@ -459,7 +459,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/ELA_Advanced_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/ELA_Advanced_1.jpg",
     "desc": [
       "Designed for students who have a firm grasp of English language fundamentals involving reading, writing, listening, and speaking.",
       "Students at this level can communicate in English at a high level of fluency, requiring little to no corrections and prompting.",
@@ -486,14 +486,14 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_obj_ELA_Advanced.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_obj_ELA_Advanced.jpg",
         "strings": [
           "Our ELA courses help students master the essential skills required for high school, college, career, and life in today’s global economy through adhering to United States Common Core Standards. Students advance through the four levels of ELA from Foundations to ELA Advanced. Students will be placed based on a diagnostic assessment which focuses on reading, writing, speaking, and listening proficiency.",
           "<strong>The ELA standards align with college expectations in 6 domains</strong><br/>1) Language (conventions, knowledge, vocabulary)<br/>2) Reading: Informational (ideas, details, structure, range, text complexity)<br/>3) Reading: Literature (ideas, details, structure, range, text complexity)<br/>4) Reading: Foundational (concepts, phonological awareness, recognition, fluency)<br/>5) Speaking and Listening (comprehension, collaboration, presentation)<br/>6) Writing (type, purpose, production, distribution, research, range of writing)"
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_book_ELA_Advanced.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_book_ELA_Advanced.jpg",
         "strings": [
           "National Geographic Pathways Level 3",
           "Reading & Writing / Speaking & Listening",
@@ -524,7 +524,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Ink_Academic_and_Creative_Writing_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Ink_Academic_and_Creative_Writing_1.jpg",
     "desc": [
       "Point Avenue’s Ink program is designed to develop and grow students academic and creative writing skills.",
       "The primary goal of the Ink course is to help students build foundational writing skills through western and contemporary teaching styles, and foster the important 21st century skills of creative and critical thinking.",
@@ -546,7 +546,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_obj_Academic_and_Creative_Writing.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_obj_Academic_and_Creative_Writing.jpg",
         "strings": [
           "<strong>1) Develop the ability to write different paragraph forms</strong><ul class=\"ul_type_02\"><li> Understand opinion writting, sequence writing, topic sentences, conclusing sentences</li><li> Learn how to write process, narrative, descriptive, and opinion papers</li></ul>",
           "<strong>2) Improve grammar and overall sentence structure</strong><ul class=\"ul_type_02\"><li> Students will use the software platform Quill to practice grammar and track their progress throughout the term.</li><li> Use Focused Correction Areas (FCA's) to analyze improvement areas in their writing</li></ul>",
@@ -555,7 +555,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_book_Academic_and_Creative_Writing.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_book_Academic_and_Creative_Writing.jpg",
         "strings": [
           "<strong>National Geographic Great Writing Series</strong><br/>The Great Writing Series uses clear explanations and extensive practical activities to help students write great sentences, paragraphs, and essays. Each book contains a wide variety of writing models in carefully selected rhetorical styles that provide practice in working with the writing process to develop a final piece of writing.",
           "<strong>Word Roots Book Series</strong><br/>These award-winning books teach the meaning and spelling of roots, prefixes, and suffixes that are the elements used to form words in English. Learning these word elements dramatically improves spelling and the ability to decode unfamiliar words."
@@ -585,7 +585,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Life_Coaching_Beginner_Intermediate_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Life_Coaching_Beginner_Intermediate_1.jpg",
     "desc": [
       "The Life Coaching Beginner/Intermediate course focuses on aspects of growing up, developing good habits, and creating a growth mindset. In this course, students will use the book 7 Habits of Highly Effective teens to learn life skills that will make their transition into young adulthood easier and give them confidence, decisiveness, and the ability to critique themselves in order to constantly evolve and grow. Students will work on their overall confidence by practicing public speaking, doing weekly exercises, and engaging in leadership challenges. This course is a mixture of health and wellness, academic competency, and leadership principles. After completing this course, students will be able to enroll in the Life Coaching Advanced course. Life Coaching Advanced includes more complex leadership concepts and principles meant to further develop your child into a future leader."
     ],
@@ -606,7 +606,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_obj_Life_Coaching_Beginner_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_obj_Life_Coaching_Beginner_Intermediate.jpg",
         "strings": [
           "Weekly Fitness (60 minutes each week)",
           "Develop soft skills (posture, eye contact, confidence)",
@@ -619,7 +619,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_book_Life_Coaching_Beginner_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_book_Life_Coaching_Beginner_Intermediate.jpg",
         "strings": [
           "<strong>7 Habits of Highly Effective Teens Textbook and Workbook by Sean Covey</strong><br/>In the book, Covey discusses how teenagers can become more independent and effective by following seven basic habits. The habits range from being proactive in every aspect of one's life to planning and prioritizing one's daily life and responsibilities",
           "<strong>Point Avenue Daily Journal</strong><br/>For this course, each student is required to maintain a journal that we supply them. Inside they are to keep track of daily goals, notable events, lessons learned, and things they are grateful for. The purpose of these journals is to measure effort in making personal growth intentional, as well as to teach students daily self-reflection in order for them to improve and grow their perspectives."
@@ -649,7 +649,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Life_Coaching_Advanced_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Life_Coaching_Advanced_1.jpg",
     "desc": [
       "The Life Coaching Advanced course focuses on aspects of self-awareness, mindfulness, and community service. In this course, students will learn about mindfulness skills and concepts through a step-by-step process, focusing on understanding themselves and others when making decisions and acquiring knowledge. This course establishes a foundation for critical thinking skills for students to build upon as they prepare for high school and beyond. Key example lessons include: focused awareness, sharpening the senses (mindful taste, touch, smell, sight), optimism, gratitude, and kindness. In addition to MindUP, students will plan a community service activity, exercise each week for 60 minutes, and complete a daily journal."
     ],
@@ -671,7 +671,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_obj_Life_Coaching_Advanced.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_obj_Life_Coaching_Advanced.jpg",
         "strings": [
           "Weekly fitness (60-70 minutes each week)",
           "Develop soft skills (posture, eye contact, confidence)",
@@ -682,7 +682,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_book_Life_Coaching_Advanced.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_book_Life_Coaching_Advanced.jpg",
         "strings": [
           "<strong>MindUP Curriculum</strong><br/>MindUP gives children the knowledge and tools they need to manage stress, regulate emotions and face the challenges of the 21st century with optimism, resilience and compassion.",
           "<strong>Point Avenue Daily Journal</strong><br/>For this course, each student is required to maintain a journal that we supply them. Inside they are to keep track of daily goals, notable events, lessons learned, and things they are grateful for. The purpose of these journals is to measure effort in making personal growth intentional, as well as to teach students daily self-reflection in order for them to improve and grow their perspectives."
@@ -712,7 +712,7 @@
     "weeks": "17 weeks",
     "duration": "2 hours / week",
     "hour": "34 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Elementary_Beginner_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Elementary_Beginner_1.jpg",
     "desc": [
       "Point Avenue’s Elementary Debate (Beginner) course introduces students to Public Speaking and the basic concepts used in Debate. They will be provided with and apply techniques that will help them to communicate effectively, enhance their critical thinking, and deliver an engaging speech to an audience. Students will be coached on how to research and discuss a variety of topics to enhance their understanding and be given ample opportunities to offer their own opinion. Also, students will be challenged to explore and support opinions that differ from their own."
     ],
@@ -734,7 +734,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Elementary_Beginner_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Elementary_Beginner_2.jpg",
         "strings": [
           "Define Debate and identify related elementary-level vocabulary",
           "Demonstrate enhanced critical thinking",
@@ -743,7 +743,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/elem_debate_book_Elementary_Debate_Beginner.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/elem_debate_book_Elementary_Debate_Beginner.jpg",
         "strings": [
           "<strong>Speakers’ Club - Public Speaking for Young People:</strong> includes practical ideas and fun activities, introduces valuable public speaking skills, and reinforces the need for preparation and attention to detail to deliver a successful speech.",
           "<strong>Debate Pro Junior - Book 1</strong>: designed to introduce students to a variety of topics and teach them how to present opinions about these topics"
@@ -773,7 +773,7 @@
     "weeks": "17 weeks",
     "duration": "2 hours / week",
     "hour": "34 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Elementary_Intermediate_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Elementary_Intermediate_1.jpg",
     "desc": [
       "Point Avenue’s Elementary Debate (Intermediate) course is designed to build upon the skills developed during the Beginner course and introduce students to more challenging Debate vocabulary and topics. Students will continue to develop their critical thinking and learn to think more creatively through brainstorming, enabling them to become powerful and deliberate communicators. Students will also be gradually introduced to more complex debating styles with a particular focus on World Schools Debating Championships (WSDC) and Asian Parliamentary (AP) formats."
     ],
@@ -795,7 +795,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Elementary_Intermediate_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Elementary_Intermediate_2.jpg",
         "strings": [
           "Demonstrate understanding of Debate and its practical applications",
           "Express their opinion using the Argumentation and Refutation structure",
@@ -804,7 +804,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/elem_debate_book_Elementary_Debate_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/elem_debate_book_Elementary_Debate_Intermediate.jpg",
         "strings": [
           "<strong>Debate Pro Junior - Book 2</strong>: designed to introduce students to more advanced topics and vocabulary. Students will learn how to organize and present convincing arguments about these topics. "
         ]
@@ -833,7 +833,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Middle_School_Beginner_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Middle_School_Beginner_1.jpg",
     "desc": [
       "Point Avenue’s Middle & High School Debate (Beginner) is a course that aims to nurture future leaders and their ability to think critically, collaborate, express and share their ideas in a powerful manner. Throughout the term, students will be exposed to a variety of debating styles, with a particular focus on World Schools Debating Championships (WSDC) and Asian Parliamentary (AP) formats."
     ],
@@ -855,7 +855,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Middle_School_Beginner_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Middle_School_Beginner_2.jpg",
         "strings": [
           "Define the purpose and structure of competitive Parliamentary Debating",
           "Express their opinions using the Argumentation and Refutation structure",
@@ -865,7 +865,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_debate_book_Middle_High_School_Debate_Beginner.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_debate_book_Middle_High_School_Debate_Beginner.jpg",
         "strings": [
           "<strong>Debate For All - Introduction to Debate</strong>: explores the basics of the academic sport of debate to include 21st-Century Skills, parliamentary debate format, argumentation, refutation, speaker roles, and methods of brainstorming"
         ]
@@ -894,7 +894,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Middle_High_School_Intermediate_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Middle_High_School_Intermediate_1.jpg",
     "desc": [
       "Point Avenue’s Middle & High School Debate (Intermediate) is a course designed to nurture future leaders to think critically, collaborate, express themselves creatively, and communicate their ideas effectively in a formal setting. Building on skills learned in the Middle & High School Debate (Beginner) course, students will refine their argumentation and refutation skills, learn and practice higher-level debate skills, analyze current topics, and develop effective collaboration skills with peers."
     ],
@@ -916,7 +916,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Middle_High_School_Intermediate_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Middle_High_School_Intermediate_2.jpg",
         "strings": [
           "Deepen their understanding of competitive Parliamentary Debate ",
           "Enhance their skills through personalized speech and case analysis drills ",
@@ -927,7 +927,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/mh_debate_book_Middle_High_School_Debate_Intermediate.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/mh_debate_book_Middle_High_School_Debate_Intermediate.jpg",
         "strings": [
           "<strong>Point Avenue Debate Topics</strong>: introduces students to various topics and presents multiple controversies around the subject. These packets aim to help students grow their general knowledge and identify the core clashes in a debate. Discussion questions ignite students' critical thinking and expand their vocabulary related to the topics."
         ]
@@ -956,7 +956,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/Debate_All_Stars_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/Debate_All_Stars_1.jpg",
     "desc": [
       "The Debate “All-Stars” Program is an advanced course designed for students with competitive debating tournament experience. Each class will culminate in performance assignments that require students to demonstrate their abilities and apply course content within the classroom setting. Opportunities to take their knowledge beyond the classroom are available with tournaments in and out of Vietnam and Thailand. ",
       "",
@@ -980,7 +980,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/all-star_debate_obj_Debate_All_Stars.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/all-star_debate_obj_Debate_All_Stars.jpg",
         "strings": [
           "Students will be briefed on motions from previous international schools-level tournaments and create their own case files. ",
           "Students will be introduced to various debate strategies with a focus on team collaboration. For aspiring champions, the ability to communicate clearly with others on a team and collaborate towards a common goal is essential. "
@@ -1014,7 +1014,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/AP_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/AP_1.jpg",
     "desc": [
       "<strong>Learn with Asia's elite debate coaches.</strong>",
       "<strong>What is Debate?</strong> Debate is an academic sport that allows students to practice and master their skills of public speaking and active listening while encouraging them to challenge existing norms and review old issues with new perspectives.",
@@ -1038,7 +1038,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/all-star_debate_obj_Debate_All_Stars.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/all-star_debate_obj_Debate_All_Stars.jpg",
         "strings": [
           "Students will be briefed on motions from previous international schools-level tournaments and create their own case files. ",
           "Students will be introduced to various debate strategies with a focus on team collaboration. For aspiring champions, the ability to communicate clearly with others on a team and collaborate towards a common goal is essential. "
@@ -1073,7 +1073,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/SSAT_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/SSAT_1.jpg",
     "desc": [
       "The SSAT is an academic readiness test intended to measure a student’s critical reading, quantitative reasoning, and writing skills needed for academic success at the high school level.",
       "",
@@ -1098,7 +1098,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/SSAT_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/SSAT_2.jpg",
         "strings": [
           "<strong>SSAT Upper 101</strong><br/>SSAT 101 is an intensive introductory course, familiarizing students with the test and all of the essential skills they will need. The course emphasizes vocabulary expansion, critical reading & analysis, and successfully interpreting word problems and SSAT match concepts. ",
           "<strong>SSAT Upper 201 (1500 - 1950)</strong><br/>Students who complete 101 and haven’t yet reached their target score will move into 201. At this level, students will focus on increasing their endurance and honing the skills and strategies they learned in 101 through review and heavy practice. Students will be guided to master more challenging academic reading texts and verbal reasoning concepts. ",
@@ -1106,7 +1106,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_SSAT.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_SSAT.jpg",
         "strings": [
           "Barron’s SSAT/ISEE: High School Entrance Examinations (Fourth Edition)",
           "Kaplan SSAT & ISEE Middle & Upper Level Prep 2020",
@@ -1138,7 +1138,7 @@
     "weeks": "17 weeks",
     "duration": "4 hours / week",
     "hour": "48-68 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/TOEFL_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/TOEFL_1.jpg",
     "desc": [
       "Point Avenue's TOEFL program prepares students for official language assessment by immersing students in interpersonal communication processes. This course develops students to be more fluent, coherent, and effective multi-skilled communicators by utilizing the four assessed TOEFL skills as catalysts for language advancement. ",
       "<strong>Enrollment Prerequisites</strong>",
@@ -1176,7 +1176,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/TOEFL_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/TOEFL_2.jpg",
         "strings": [
           "<b> Pre- TOEFL</b>: Point Avenue's program prepares students for official language assessment by immersing students in interpersonal communication processes. This course develops students from age 12-15 in to be more fluent, coherent, and effective multi-skilled communicators by utilizing the four assessed TOEFL skills as catalysts for language advancement. ",
           "<b>TOEFL 101 (Beginner)</b> is a foundational course for students who score between 60-80 on the diagnostic test. The primary focus of TOEFL 101 is to expand students' academic vocabulary, specific skill knowledge, and subsequent topic awareness. Each section of the class is taught using an integrated approach to reflect the official test format. Upon completion, students will be able to: <br />Effectively outline and map reading passages.<br />Understand the structure and flow of academic conversations and lectures.<br />Write basic academic paragraphs.",
@@ -1185,7 +1185,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_TOEFL.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_TOEFL.jpg",
         "strings": [
           "[Delta Six] Practice Tests"
         ]
@@ -1215,7 +1215,7 @@
     "weeks": "17 weeks",
     "duration": "4 hours / week",
     "hour": "48-68 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/IELTS_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/IELTS_1.jpg",
     "desc": [
       "Point Avenue's IELTS program prepares students for official language assessment by immersing students in the processes of interpersonal communication. This course develops students to be more fluent, coherent, and effective multi-skilled communicators by utilizing the four assessed IELTS skills as catalysts for language advancement. Enrollment Prerequisites",
       "",
@@ -1256,7 +1256,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/IELTS_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/IELTS_2.jpg",
         "strings": [
           "<strong>IELTS 101 (Basic User):</strong> This is an introductory level course for beginner students who test between a band 5-6 on a diagnostic and who have a CEFR A1 - A2 vocabulary and grammar foundation.<br/>Beginner-level courses explore the Listening and Speaking (Part 1) sections of the test along with the Writing and Reading sections of the General module as an introduction to academic reading and writing. A further concentration on foundational grammatical proficiency and remedial vocabulary expansion enable general English communication development. ",
           "<strong>IELTS 201 (Independent User):</strong> This is an intermediate to upper intermediate level course for between students who score between a band 6-7 and who have a CEFR B1-B2 vocabulary and grammar proficiency.<br/>Intermediate level courses focus on IELTS vocabulary & topic knowledge expansion, and critical reading & analysis. Students' understanding of correctly utilizing grammatical conventions when writing and speaking is also a primary focus at this level.",
@@ -1264,7 +1264,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_IELTS.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_IELTS.jpg",
         "strings": [
           "<strong>IELTS 101 Course Texts</strong><br/>[Macmillan] Effective Reading 1 & 2 <br/>[Macmillan] Destination B1 Grammar & Vocabulary<br/>[Collins] Grammar (Pre-Intermediate)<br/>Preliminary English Test (PET) Practice Tests",
           "<strong>IELTS 201 Course Texts</strong><br/>[Macmillan] Effective Reading 3 & 4<br/>[Macmillan] Destination B2 Grammar & Vocabulary<br/>[Learning Express] 501 Reading Comprehension Questions<br/>[Cambridge] IELTS Academic Tests 1-14",
@@ -1296,7 +1296,7 @@
     "weeks": "17 weeks",
     "duration": "4 hours / week",
     "hour": "48-68 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/SAT_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/SAT_1.jpg",
     "desc": [
       "The SAT is a college readiness test created by ETS and owned by College Board. The SAT is typically taken by high school juniors and seniors. The SAT is intended to measure literacy, numeracy, and writing skills needed for academic success at the university level.",
       "",
@@ -1328,7 +1328,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/SAT_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/SAT_2.jpg",
         "strings": [
           "Advanced language proficiency requirements for undergraduate study",
           "Academic vocabulary expansion",
@@ -1340,7 +1340,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_SAT.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_SAT.jpg",
         "strings": [
           "College Board",
           "Princeton Review",
@@ -1374,7 +1374,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "72 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/AP_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/AP_1.jpg",
     "desc": [
       "Advanced Placement is administered by the College Board that enables high school seniors to experience introductory-level university courses and earn credits towards their diploma. ",
       "",
@@ -1394,7 +1394,7 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/AP_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/AP_2.jpg",
         "strings": [
           "<strong>AP World History</strong><br/>Students will explore the cultural, economic, political, and social developments that have shaped the world from 1200 CE to the present. Students will analyze texts, visual sources, and other historical evidence and write essays discussing historical themes and arguments.",
           "<strong>English Language & Composition</strong><br/>Students will explore the elements of argument and composition as they develop critical reading and writing skills. Students will read and analyze nonfiction works from various periods and write essays aimed at exposition, argumentation, and persuasion.",
@@ -1402,7 +1402,7 @@
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_AP.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_AP.jpg",
         "strings": [
           "College Board",
           "Princeton Review",
@@ -1434,7 +1434,7 @@
     "weeks": "17 weeks",
     "duration": "3 hours / week",
     "hour": "51 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/IB_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/IB_1.jpg",
     "desc": [
       "The International Baccalaureate Diploma Program offers challenging one-year and two-year pre-university courses for students in the 11th and 12th grades. Courses require a student’s total commitment to completing all assessment components and examinations. Both Standard Level (SL) and Higher Level (HL) courses receive advanced-level credit (7 point grade scale). ",
       "",
@@ -1457,14 +1457,14 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/IB_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/IB_2.jpg",
         "strings": [
           "<b>IB assessment procedures measure the extent to which students have mastered advanced academic skills in fulfilling these goals, for example:</b><br/>Analysing and presenting information<br/>Evaluating and constructing arguments<br/>Solving problems creatively",
           "<b>Basic skills are also assessed, including:</b><br/>Retaining knowledge<br/>Understanding key concepts<br/>Applying standard methods<br/>In addition to academic skills, DP assessment encourages an international outlook and intercultural skills, wherever appropriate<br/>Student results are determined by performance against set standards, not by each student's position in the overall rank order"
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_IB.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_IB.jpg",
         "strings": [
           "International Baccalaureate"
         ]
@@ -1494,7 +1494,7 @@
     "weeks": "16 weeks",
     "duration": "3 hours / week",
     "hour": "48 hours",
-    "thumbnail": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/IGCSE_1.jpg",
+    "thumbnail": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/IGCSE_1.jpg",
     "desc": [
       "The International General Certificate of Secondary Education is a two-year program leading to externally set, marked, and certificated examinations from the University of Cambridge. Any student who takes an IGCSE subject will be gaining a qualification that is recognized globally. They are established qualifications that keep pace with educational developments and trends and so are an ideal foundation for higher-level courses such as AS and A-Levels and the International Baccalaureate Diploma. Students typically sit seven to nine subjects in one session at the end of Year 11.",
       "",
@@ -1514,14 +1514,14 @@
       "registrationText": "Diagnostic test registration",
       "enroll": "https://pointavenue1.typeform.com/to/euBzBBld",
       "objective": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/IGCSE_2.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/IGCSE_2.jpg",
         "strings": [
           "<strong>Skills Acquired</strong><ul class=\"ul_type_02\"><li>Subject knowledge expansion</li><li>Applying new knowledge and understanding to familiar and new situations</li><li>Intellectual inquiry & exploration</li><li>Flexibility and responsiveness to change</li><li>Working and communicating in English</li><li>Influencing outcomes </li><li>Cultural awareness </li><li>Cultural awareness</li></ul>",
           "<strong>Continuation Roadmap & Options</strong><br/>IELTS / TOEFL / SAT / AP / IB"
         ]
       },
       "books": {
-        "image": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/courses/test-prep_book_IGCSE.jpg",
+        "image": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/courses/test-prep_book_IGCSE.jpg",
         "strings": [
           "Complete Chemistry for Cambridge IGCSE by P. Ingram and RoseMarie Gallagher Oxford; 3rd Revised edition (2014)",
           "Preview Cambridge IGCSE Biology Coursebook (third edition), Mary Jones and Geoff Jones, Cambridge University Press",

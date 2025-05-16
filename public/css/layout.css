@@ -42,9 +42,9 @@
 .btn_type_01--sec.blue:hover {background: #fff; border: 1px solid #1960A1; color:#1960A1;}
 
 .btn_type_02 {display: inline-block; margin-top: 15px; font-size:20px; font-weight: 400; color:#F2B41B;transition: all .5s;}
-.btn_type_02:after {content:''; display: inline-block; width:151px; height: 16px; margin-left: 10px;background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/next_icon.png') no-repeat; background-size: 151px auto;transition: all .5s; }
+.btn_type_02:after {content:''; display: inline-block; width:151px; height: 16px; margin-left: 10px;background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/next_icon.png') no-repeat; background-size: 151px auto;transition: all .5s; }
 .btn_type_02:hover {color:#000;}
-.btn_type_02:hover:after {content:''; display: inline-block; width:151px; height: 16px; margin-left: 10px;background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/next_icon--hover.png') no-repeat; background-size: 151px auto; }
+.btn_type_02:hover:after {content:''; display: inline-block; width:151px; height: 16px; margin-left: 10px;background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/next_icon--hover.png') no-repeat; background-size: 151px auto; }
 .btn_color_yellow {background: #F2B41B; color:#3a3a3a;}
 .btn_color_yellow:hover {background: #000; color:#fff; border: 1px solid #000;}
 
@@ -56,14 +56,14 @@
 .checkbox_wrap input[type="checkbox"] {display: none;}
 .checkbox_wrap input[type="checkbox"] + label:before {content:''; display: inline-block; width:25px; height: 25px; margin-right: 5px;border:1px solid #E5E5E5; border-radius: 5px; vertical-align: middle;}
 .checkbox_wrap input[type="checkbox"]:checked + label:before {content:''; display: inline-block; width:25px; height: 25px; background: #F2B41B
- url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/checkbox.png') no-repeat; background-position: center;border:1px solid #F2B41B;}
+ url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/checkbox.png') no-repeat; background-position: center;border:1px solid #F2B41B;}
 
 .radio_wrap input[type="radio"] {display: none;}
 .radio_wrap input[type="radio"] + label:before {content:''; display: inline-block; width:25px; height: 25px; margin-right: 5px;border:1px solid #E5E5E5; border-radius: 5px; vertical-align: middle;}
 .radio_wrap input[type="radio"]:checked + label:before {content:''; display: inline-block; width:25px; height: 25px; background: #F2B41B
- url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/checkbox.png') no-repeat; background-position: center;border:1px solid #F2B41B;}
+ url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/checkbox.png') no-repeat; background-position: center;border:1px solid #F2B41B;}
 .radio_wrap.blue input[type="radio"]:checked + label:before {content:''; display: inline-block; width:25px; height: 25px; background: #1960A1
- url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/checkbox.png') no-repeat; background-position: center;border:1px solid #1960A1;}
+ url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/checkbox.png') no-repeat; background-position: center;border:1px solid #1960A1;}
 
 .info_input_wrap .section_inner--full{background: rgba(242, 180, 27, 0.3); padding:30px;}
 .info_input_wrap .write_box {width:968px; min-height: 320px; margin:0 auto; text-align: center;background:#fff; border: 1px solid #bdbdbd; padding:30px 100px; border-radius: 30px; box-sizing: border-box;}
@@ -89,7 +89,7 @@
 .container .section_inner{max-width:1170px; margin:0 auto;}
 .container .section_inner--full{width:100%;}
 .container .section_title {position: relative; padding-left:60px;margin-bottom: 40px; line-height: 1.5;}
-.container .section_title:before{position: absolute; left:0;content:''; display: inline-block; width:46px; height: 60px; margin-right: 15px; background: url("https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/title_icon.png") no-repeat; background-size: 46px auto; vertical-align: middle;}
+.container .section_title:before{position: absolute; left:0;content:''; display: inline-block; width:46px; height: 60px; margin-right: 15px; background: url("https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/title_icon.png") no-repeat; background-size: 46px auto; vertical-align: middle;}
 .container .section_title:after{content:''; display: inline-block; width:110px; height: 5px; position: absolute; top:44px; left:60px; background: #F2B41B;}
 .container .section_title_02 {position: relative;padding-bottom: 10px; margin-bottom: 15px;}
 .container .section_title_02:after{content:''; display: inline-block; width:270px; height: 5px; position: absolute; bottom:0; left:0; background: #F2B41B;}
@@ -153,10 +153,10 @@
 
 /*====================swiper-container===================*/
 
-.swiper-container .swiper-button-prev {left: 0; height: 80px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_01.png') no-repeat; transform: rotateY(-180deg); background-size:24px auto; margin-top: -40px;}
-.swiper-container .swiper-button-next {right: 0; height: 80px;background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_01.png') no-repeat; background-size:24px auto;margin-top: -40px;}
-.swiper-container .swiper-button-prev.black {left: 0; height: 80px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_01_black.png') no-repeat; transform: rotateY(-180deg); background-size:24px auto; margin-top: -40px;}
-.swiper-container .swiper-button-next.black {right: 0; height: 80px;background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_01_black.png') no-repeat; background-size:24px auto;margin-top: -40px;}
+.swiper-container .swiper-button-prev {left: 0; height: 80px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_01.png') no-repeat; transform: rotateY(-180deg); background-size:24px auto; margin-top: -40px;}
+.swiper-container .swiper-button-next {right: 0; height: 80px;background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_01.png') no-repeat; background-size:24px auto;margin-top: -40px;}
+.swiper-container .swiper-button-prev.black {left: 0; height: 80px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_01_black.png') no-repeat; transform: rotateY(-180deg); background-size:24px auto; margin-top: -40px;}
+.swiper-container .swiper-button-next.black {right: 0; height: 80px;background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_01_black.png') no-repeat; background-size:24px auto;margin-top: -40px;}
 
 /*========================grid_type_wrap========================*/
 .grid_type_wrap_01 {overflow: hidden;}
@@ -183,7 +183,7 @@
 
 .ul_type_03 {}
 .ul_type_03 > li{font-size: 16px; position: relative; padding-left: 40px; margin-bottom: 10px; padding-bottom: 10px;} 
-.ul_type_03 > li:before{content:''; position: absolute; left:0; top:0px; display: inline-block;width:24px; height: 24px; border-radius: 12px; background-color: #F2B41B; background-image: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/checkbox.png'); background-repeat: no-repeat; background-position: center; vertical-align: middle; }
+.ul_type_03 > li:before{content:''; position: absolute; left:0; top:0px; display: inline-block;width:24px; height: 24px; border-radius: 12px; background-color: #F2B41B; background-image: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/checkbox.png'); background-repeat: no-repeat; background-position: center; vertical-align: middle; }
 .ul_type_03.blue > li:before{background-color: #1960A1; }
 
 .ul_type_04 {}
@@ -256,7 +256,7 @@
 	<ul class="class_box_type_01">
 		<li class="class_box_type_01--item">
 			<div class="class_box_type_01--img">
-				<img src="https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/none_img.png" alt="">
+				<img src="https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/none_img.png" alt="">
 			</div>
 			<div class="class_box_type_01--desc">
 				<div class="text--gray">
@@ -335,7 +335,7 @@
 			<ul class="swiper-wrapper swipe_type_01">
 				<li class="swipe_type_01--item">
 					<div class="swipe_type_01--img">
-						<img src="https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/none_img.png" alt="">
+						<img src="https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/none_img.png" alt="">
 					</div>
 				</li>
 			</ul>
@@ -356,7 +356,7 @@
 .process_step_wrap .process_step_list .process_step_item:last-child:after {content:none;}
 .process_step_wrap .process_step_list .process_step_item .step {width:90%; margin:167px 0; background: #F2B41B; border-radius: 20px; text-align: center; padding:10px; font-size: 16px;}
 .process_step_wrap .process_step_list .tooltip_box{ position: absolute; left:50%; margin-left: -85px; bottom:230px; max-width: 170px; display: inline-block; padding:20px 10px 10px;  background: #f4f4f4; box-sizing: border-box; border-radius:0 20px 20px 20px;}
-.process_step_wrap .process_step_list .tooltip_box:after{ content:''; display: inline-block; position: absolute; left:50%; margin-left:-14px; width: 27px; height: 22px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/tooltip_arrow.png') no-repeat;}
+.process_step_wrap .process_step_list .tooltip_box:after{ content:''; display: inline-block; position: absolute; left:50%; margin-left:-14px; width: 27px; height: 22px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/tooltip_arrow.png') no-repeat;}
 .process_step_wrap .process_step_list .tooltip_box .title_r_01 {position: absolute; left:0; top:-40px; color:#F2B41B;}
 .process_step_wrap .process_step_list .tooltip_box .title_r_03 {font-size: 16px;}
 .process_step_wrap .process_step_list .icon_box{position: absolute; bottom:50px; left:50%; transform: translateX(-50%);transform: -webkit-translateX(-50%);}
@@ -376,7 +376,7 @@
 .locations_cont .swiper-container{position: initial; margin:0 50px; overflow: inherit;}
 .locations_list .locations_item{float: left; width:33.33%; min-height: 170px; padding:15px; border-radius: 10px; border: 1px solid #E5E5E5;}
 .locations_list .locations_title{position: relative; padding-left:50px;}
-.locations_list .locations_title:before {content:''; display: inline-block; width:29px; height: 38px; position: absolute; left:0; top:0; vertical-align: middle;  background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/location_icon.png') no-repeat; background-size: 29px; }
+.locations_list .locations_title:before {content:''; display: inline-block; width:29px; height: 38px; position: absolute; left:0; top:0; vertical-align: middle;  background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/location_icon.png') no-repeat; background-size: 29px; }
 .locations_list .locations_title:after {content:'';display: block; width:calc(100% - 32px); width:-webkit-calc(100% - 32px); margin-top:3px;  border-bottom:1px solid #ddd; }
 .locations_list .locations_text{margin-top: 10px; line-height: 1.6;}
 .locations_list .locations_text p {font-size: 14px;}
@@ -384,7 +384,7 @@
 /*============================= courses_wrap ===========================*/
 .courses_wrap > div {position: relative; margin-bottom: 45px;}
 .courses_wrap .sort_by_box {position: relative;text-align: right; margin-bottom: 20px;}
-.courses_wrap .sort_by_box .sort_item {position: relative; border-bottom: 1px solid #000; border-radius: 0;padding:5px 30px 5px 5px; background:url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/arrow_02.png') right center no-repeat;}
+.courses_wrap .sort_by_box .sort_item {position: relative; border-bottom: 1px solid #000; border-radius: 0;padding:5px 30px 5px 5px; background:url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/arrow_02.png') right center no-repeat;}
 .courses_wrap .sort_by_box .sort_kind_item {display: none;position: absolute;right:0; top:35px;padding:10px; background: #fff; z-index: 10; border: 1px solid #e5e5e5; border-radius: 10px; text-align: left;}
 .courses_wrap .sort_by_box .sort_kind_item a {display: block;padding:10px 0;}
 .courses_wrap .sort_by_box.on .sort_kind_item {display: inline-block;}
@@ -396,7 +396,7 @@
 .classes_grid_wrap .courses_wrap {float: right; width:80%; padding-left:3%; box-sizing: border-box;}
 /* filter_list */
 .option_wrap .filter_mo_btn{display: none;font-size: 16px; background:#F2B41B; color:#fff; border: 1px solid #F2B41B; padding:5px 10px;}
-.option_wrap .filter_mo_btn:before {content:''; display: inline-block; width:20px; height: 24px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/filter_icon.png') center no-repeat; background-size: 20px auto;vertical-align: middle; margin-right: 5px;}
+.option_wrap .filter_mo_btn:before {content:''; display: inline-block; width:20px; height: 24px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/filter_icon.png') center no-repeat; background-size: 20px auto;vertical-align: middle; margin-right: 5px;}
 .option_wrap .option_list {display: block;}
 .option_list .filter_list_wrap .filter_item {position: relative;margin-bottom: 10px;}
 .option_list .filter_list_wrap .filter_item .checkbox_wrap {padding-left: 40px; padding-top: 3px;}
@@ -421,8 +421,8 @@
 /*==================file_down_wrap===================*/
 .flie_down_wrap {}
 .flie_down_wrap li {margin-bottom: 20px;}
-.flie_down_wrap li a{display: inline-block; padding:10px 100px;  border: 1px solid #e5e5e5; border-radius: 10px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/file_icon.png') left 30px center no-repeat;}
-.flie_down_wrap li a{display: inline-block; padding:10px 100px;  border: 1px solid #e5e5e5; border-radius: 10px; background: url('https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/common/file_icon.png') left 30px center no-repeat;}
+.flie_down_wrap li a{display: inline-block; padding:10px 100px;  border: 1px solid #e5e5e5; border-radius: 10px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/file_icon.png') left 30px center no-repeat;}
+.flie_down_wrap li a{display: inline-block; padding:10px 100px;  border: 1px solid #e5e5e5; border-radius: 10px; background: url('https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/common/file_icon.png') left 30px center no-repeat;}
 .flie_down_wrap li a span {display: block;}
 .flie_down_wrap li a .file_size {font-size: 16px;}
 

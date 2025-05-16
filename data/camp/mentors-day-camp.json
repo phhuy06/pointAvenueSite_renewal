@@ -12,7 +12,7 @@
       "BS, United States Military Academy"
     ],
     "desc": "B.S. United States Military Academy at West Point",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/DG3.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/DG3.jpg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
       "BS, United States Military Academy"
     ],
     "desc": "M.B.A. The Wharton School of the University of Pennsylvania",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Tommy.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Tommy.jpg"
   },
   {
     "id": 4,
@@ -43,7 +43,7 @@
       "ACCA, CIA, CPA"
     ],
     "desc": "Bachelors in Business Administration, University of Washington",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Edward.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Edward.jpg"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
       "Residential Counselor & Summer Program Teacher, Youth Opportunities Upheld, Inc.",
       "B.A., University of Massachusetts, Amherst"
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Daniel_crop.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Daniel_crop.jpg"
   },
   {
     "id": 7,
@@ -69,7 +69,7 @@
       "M.A. and B.A., National Economics University "
     ],
     "desc": "Bachelor of Laws, Nelson Mandela University",
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Ashley.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Ashley.jpg"
   },
   {
     "id":8,
@@ -83,6 +83,6 @@
       "B.S., United States Military Acedemy at West Point ",
       "TEFL & Test Prep Certifications "
     ],
-    "img": "https://paathena-public-prod.s3.ap-southeast-1.amazonaws.com/pasite/images/main/Hyewon.jpg"
+    "img": "https://pointavenue.sgp1.cdn.digitaloceanspaces.com/pasite/images/main/Hyewon.jpg"
   }
 ]
